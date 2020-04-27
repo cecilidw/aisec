@@ -1,5 +1,6 @@
+# Relevant articles, with comments
 
-AI in Security:
+## AI in Security:
 
 1. https://awakesecurity.com/glossary/ai-security/ - definition, "AI security involves leveraging AI to identify and stop cyber threats with less human intervention than is typically expected or needed with traditional security approaches". Basically, using ML to identify security risks
 
@@ -17,7 +18,7 @@ AI in Security:
 * Differential privacy, patterns are shared but not the PII-part
 * AI Ethics
 
-Security in AI:
+## Security in AI:
 
 1. https://www.belfercenter.org/publication/AttackingAI AI Attack - attacking AI systems. Main "methods":
 * Input
@@ -32,7 +33,7 @@ Listing vulnerable parts of society, suggesting AI Security Programs and that re
 Visibility (?)
 
 
-AISec Use Case:
+## AISec Use Case:
 
 "Bridge" case, basis for describing practical use:  https://www.microsoft.com/security/blog/2020/04/16/secure-software-development-lifecycle-machine-learning/ 
 * 12 million work items and bugs -> dataset. 

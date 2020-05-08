@@ -1,0 +1,963 @@
+﻿summary,L1,L2,L3,L4,L5
+Drag and drop of learning design zip file not working,Capability,Usability,Capability,Capability,Capability
+Error Launching Compendium LD after install,Installability,Reliability,Installability,Installability,Installability
+Multiple column Arrange for map of unlinked nodes.,Requirements,Requirements,Usability,Requirements,Requirements
+Facility to assign node icon sets on a per map basis,Requirements,Requirements,Usability,Requirements,Requirements
+Spell Checker,Requirements,Requirements,Requirements,Requirements,Requirements
+Periodically: clicking on a link does not allow one to add a link label,Capability,Usability,Capability,Capability,Reliability
+Need progress bar when inserting large search results into a map or list,Requirements,Usability,Requirements,Requirements,Requirements
+A little note about the Mac equivalent to right-click which is used to connec...,Documentation,Documentation,Usability,Documentation,Documentation
+"""Put in view"" -- select node(s)  get pick list of views to",Requirements,Usability,Usability,Requirements,Requirements
+Can small icons work with images also? Make small images?,Requirements,Requirements,Usability,Requirements,Capability
+Text find/replace,Requirements,Usability,Usability,Requirements,Requirements
+Label left/right/center alignment node-specific formatting option,Usability,Usability,Usability,Requirements,Usability
+Blank lines (newlines) in labels not showing on Map,Capability,Requirements,Usability,Usability,Capability
+Group nodes for the purpose of Align,Requirements,Usability,Usability,Usability,Requirements
+Have node image rollover settings be node-specific,Requirements,Requirements,Usability,Requirements,Requirements
+Drag Maps between projects,Requirements,Requirements,Usability,Requirements,Requirements
+Annotation layer,Requirements,Usability,Usability,Requirements,Requirements
+Shortcut to create lists of nodes,Usability,Usability,Usability,Capability,Requirements
+Other tree views apart from Node,Requirements,Usability,Requirements,Requirements,Requirements
+Modification to Export dialogs for full depth availability,Usability,Usability,Usability,Usability,Requirements
+Visual feedback on pressing Scribble save button,Usability,Usability,Capability,Usability,Requirements
+Give print option to turn off printing background image or colour.,Usability,Requirements,Capability,Requirements,Requirements
+prioritize or rank nodes,Requirements,Requirements,Capability,Requirements,Requirements
+Drag and drop a url into a map then click in the map (not on the new node)  a...,Capability,Usability,Capability,Usability,Requirements
+Icon Library,Requirements,Requirements,Requirements,Requirements,Requirements
+"Have a ""no background"" option for node labels",Usability,Usability,Usability,Capability,Requirements
+Formatting nodes to reflect action / occurrence,Usability,Usability,Usability,Requirements,Requirements
+Text Inside of Stencils,Usability,Requirements,Usability,Requirements,Requirements
+URL links could use favicon.ico by default,Usability,Requirements,Usability,Requirements,Requirements
+Tablet PC Support,Usability,Capability,Capability,Capability,Migration
+Ability to populate many reference node images/references in one go,Usability,Usability,Usability,Requirements,Requirements
+Keyboard shortcut for toggling image rollover on and off,Usability,Usability,Usability,Usability,Usability
+Make the Web Maps tooltips optional,Usability,Usability,Usability,Requirements,Requirements
+Link label positioning needs to be more flexible.,Usability,Usability,Usability,Usability,Requirements
+Image rollover -- be able to scroll large images,Requirements,Requirements,Usability,Requirements,Requirements
+Improved support for turning a node (with subtree) into a map node that conta...,Usability,Usability,Usability,Usability,Usability
+smartboard,Requirements,Requirements,Usability,Requirements,Requirements
+Text analyzer,Requirements,Requirements,Usability,Requirements,Requirements
+Excel integration,Requirements,Requirements,Usability,Requirements,Requirements
+Visio integration,Requirements,Requirements,Usability,Requirements,Requirements
+Windows Office integration,Requirements,Requirements,Usability,Requirements,Requirements
+AutoWiki,Requirements,Requirements,Requirements,Requirements,Requirements
+Mighty Mouse wheel scrolls up and down but not right/left,Usability,Usability,Usability,Capability,Usability
+Content focus lost when switching applications,Usability,Usability,Usability,Usability,Usability
+Bug when pasting to new Activity map using MySql,Reliability,Capability,Usability,Reliability,Reliability
+Scaling view disturbs alignment of nodes which have been aligned to centre (o...,Usability,Capability,Usability,Reliability,Capability
+more verbose message for error message on start if database could not be started,Reliability,Documentation,Usability,Usability,Reliability
+HTML Outline export order,Requirements,Requirements,Capability,Capability,Requirements
+Change search dialog date fields to use drop-down boxes,Requirements,Usability,Usability,Usability,Usability
+Ability to search on Link labels,Requirements,Requirements,Usability,Requirements,Requirements
+Search toolbar with google style quick search for key word/s,Usability,Usability,Usability,Usability,Requirements
+Problem with node labels drawing one line too far down with hightlighting ove...,Usability,Capability,Usability,Usability,Capability
+Can't quit Compendium,Reliability,Capability,Usability,Reliability,Capability
+Label Text on right of node - label positioning options,Usability,Usability,Usability,Usability,Requirements
+Search across databases,Requirements,Usability,Usability,Requirements,Requirements
+show max info on shared display,Requirements,Requirements,Usability,Requirements,Requirements
+Slow performance pasting multiple map nodes,Performance,Performance,Usability,Performance,Performance
+Change the way link arrows are drawn for drag and drop,Usability,Capability,Usability,Capability,Usability
+Undo for label color change.,Requirements,Requirements,Usability,Requirements,Requirements
+Ability to easily add custom headers and footers (as Includes?) to all HTML e...,Requirements,Requirements,Usability,Requirements,Requirements
+Create an node align / arrange toolbar,Requirements,Requirements,Usability,Requirements,Requirements
+Slider features controlling view history of maps,Usability,Usability,Usability,Requirements,Requirements
+HTML launching images code,Usability,Usability,Usability,Usability,Usability
+Dropping Stencil icon on another node should change icon image to stencil image.,Usability,Usability,Usability,Capability,Usability
+Docking map windows,Requirements,Requirements,Requirements,Requirements,Requirements
+Ability to set the default project from the Project Management Dialog.,Usability,Usability,Usability,Usability,Requirements
+Ability to open a Project from the Project Management Dialog,Usability,Requirements,Usability,Usability,Requirements
+Preseve node selection after right-click menu actions,Usability,Capability,Requirements,Usability,Usability
+More options when pasting a node into a view it is already in.,Usability,Requirements,Requirements,Usability,Requirements
+In the Search dialog  it would be good to have a text listing of the search c...,Usability,Usability,Requirements,Requirements,Requirements
+Option in Web Export to not show page dates in the details window,Usability,Requirements,Requirements,Requirements,Usability
+The ability to export to a file format that is importable by Excel 2000.,Requirements,Requirements,Migration,Requirements,Requirements
+Search should preserve your original values between goes,Usability,Usability,Requirements,Capability,Usability
+Reference nodes that use images could have a link indicator,Usability,Usability,Requirements,Usability,Usability
+Importing outlines,Requirements,Requirements,Requirements,Requirements,Requirements
+You cut or copy a node and it won't paste,Reliability,Capability,Capability,Capability,Reliability
+Be able to drag an image from a folder into any node to make it an image-node,Usability,Requirements,Requirements,Usability,Requirements
+Have hourglass or other indicator when first opening Login to a Project dialogue,Usability,Usability,Requirements,Requirements,Usability
+Produce reports via a number of options for example Open Office  MS > Word  A...,Requirements,Requirements,Requirements,Requirements,Requirements
+Mac kb shortcuts,Usability,Standards,Usability,Usability,Requirements
+Show/hide links,Usability,Requirements,Usability,Requirements,Requirements
+Mix and match exports,Requirements,Requirements,Requirements,Requirements,Requirements
+Rulers,Usability,Requirements,Requirements,Requirements,Requirements
+Allow Web Export (Outline & Maps) to export non-view nodes,Usability,Requirements,Requirements,Requirements,Requirements
+The print dialogue does not remember settings,Usability,Capability,Requirements,Usability,Usability
+Export of tags list (in outline format),Requirements,Requirements,Usability,Requirements,Requirements
+Restore of project adds \n to Note node details,Usability,Capability,Usability,Capability,Capability
+File browser does not allow thumbnails view,Usability,Usability,Usability,Usability,Usability
+Help search index lists results twice,Documentation,Capability,Performance,Capability,Capability
+broken interface element language references,Reliability,Capability,Usability,Capability,Reliability
+When pasting (embedding) a node into a large view  it needs to be in the visi...,Usability,Usability,Usability,Usability,Usability
+Failerd to open new activity node when using remote MySQL db,Reliability,Installability,Installability,Reliability,Reliability
+Compendium LD won't launch,Installability,Installability,Installability,Installability,Installability
+Make label-matching feature non case-sensitive,Usability,Capability,Usability,Usability,Capability
+Snap-to-Grid,Usability,Usability,Requirements,Usability,Requirements
+Opening concurrent multiple Derby databases,Requirements,Requirements,Requirements,Requirements,Requirements
+Ability to set a preference for which node type gets created on text drag and...,Usability,Requirements,Usability,Usability,Requirements
+Aerial view on map right-click menu,Usability,Requirements,Requirements,Requirements,Requirements
+Saving complex searches in xml file,Requirements,Requirements,Requirements,Requirements,Requirements
+Select one or more nodes and convert to copyable text,Usability,Usability,Usability,Requirements,Requirements
+Prcocess drag and drop text for node types,Usability,Usability,Usability,Usability,Requirements
+Save reference info when changing node type from reference to something else.,Requirements,Requirements,Requirements,Usability,Requirements
+Drag nodes bewteen views,Requirements,Usability,Usability,Usability,Capability
+print lists with row numbers,Usability,Requirements,Requirements,Requirements,Requirements
+Add alt/ctrl/shift+arrow keys for quick linking,Usability,Usability,Usability,Usability,Requirements
+Deleting a node from all views at once,Usability,Usability,Usability,Requirements,Requirements
+Configurable ouput order in HTML Outline export.,Usability,Usability,Usability,Usability,Requirements
+Write a Word-friendly XHTML export,Requirements,Requirements,Migration,Requirements,Requirements
+Ability to reorder stencil set items,Usability,Usability,Usability,Requirements,Capability
+Deep copy as clone,Usability,Requirements,Usability,Requirements,Capability
+Deep copy as shortcuts,Usability,Requirements,Usability,Requirements,Capability
+Hot key to open a Map's Contents,Requirements,Usability,Usability,Usability,Usability
+Improved export to Word,Usability,Capability,Migration,Capability,Capability
+Give users the ability to assign keyboard shortcuts on their own to certain o...,Usability,Usability,Usability,Usability,Usability
+More Reporting options,Requirements,Requirements,Migration,Requirements,Requirements
+Many more undo options,Usability,Requirements,Usability,Requirements,Requirements
+It would be nice if XML import was a little smarter in its handling of overwr...,Requirements,Capability,Migration,Capability,Capability
+Touch Graph View,Requirements,Requirements,Usability,Requirements,Requirements
+Improve display scrolling when dragging against edges of map,Usability,Usability,Usability,Capability,Usability
+multiple row drag in lists - show positioning when dragged,Usability,Usability,Usability,Requirements,Usability
+After paste into list  view should scroll to location of pasted node and re-sort,Usability,Usability,Usability,Usability,Usability
+Send To command,Requirements,Requirements,Usability,Requirements,Requirements
+Enhancement: Option to toggle off inclusion of Reference node link informatio...,Capability,Capability,Usability,Capability,Capability
+"Extend ""Transclude to New Map""",Reliability,Requirements,Usability,Requirements,Requirements
+Full path reference node in html exports,Usability,Capability,Usability,Usability,Capability
+Speed up XML imports,Performance,Performance,Migration,Performance,Performance
+Boxed nodes,Usability,Usability,Usability,Usability,Requirements
+Multiple improvements supporting formatting for web exports and linking,Usability,Capability,Usability,Capability,Capability
+Allow partial bold  italic  underline in node labels,Usability,Usability,Usability,Usability,Usability
+Box around labels,Usability,Usability,Usability,Requirements,Usability
+"""Map include"" capability",Requirements,Requirements,Requirements,Requirements,Requirements
+Improvements to web map export - no TOC and friendly URLs,Usability,Requirements,Migration,Capability,Capability
+Scribble enhancements,Usability,Usability,Usability,Usability,Requirements
+Underline for node labels,Usability,Requirements,Usability,Requirements,Capability
+Allow search on 'extra' Map and Reference Node fields (e.g.  Ref  Icon Image ...,Usability,Requirements,Usability,Capability,Requirements
+print options and email,Usability,Usability,Usability,Usability,Requirements
+mindmap view,Requirements,Requirements,Usability,Requirements,Requirements
+Pre-made backgrounds,Usability,Requirements,Usability,Requirements,Requirements
+Outline and grid views (as view types),Requirements,Requirements,Usability,Requirements,Requirements
+Accents in search function,Usability,Capability,Usability,Capability,Capability
+Print could use a fit to page option,Usability,Usability,Usability,Capability,Capability
+print to a poster-printer,Usability,Requirements,Usability,Requirements,Capability
+GLOBAL: Printing Issues Master,Requirements,Requirements,Usability,Requirements,Requirements
+Paste Special,Requirements,Requirements,Migration,Requirements,Requirements
+Image size gets changed for all transclusions  not just current map,Usability,Capability,Usability,Capability,Capability
+How to Change Project Directory,Documentation,Documentation,Usability,Documentation,Usability
+Deleting linked stencils does not remove links (NULL errors); most functions ...,Reliability,Capability,Installability,Reliability,Reliability
+Creating new projects with blank MySQL database doesn't work,Reliability,Installability,Usability,Capability,Installability
+Compendium freezes at the click of any icon.,Reliability,Capability,Usability,Reliability,Reliability
+Download Problems,Installability,Installability,Usability,Installability,Installability
+Error on deleting nodes created from import of XML file,Reliability,Capability,Migration,Reliability,Reliability
+Timing info for a task node is clipped if the task label string is short,Usability,Capability,Usability,Usability,Usability
+Dragging and dropping on linux needs further testing,Migration,Capability,Usability,Capability,Capability
+Error on HTML export,Reliability,Capability,Migration,Reliability,Reliability
+Conversion from MySql to Derby database,Migration,Migration,Migration,Migration,Migration
+Learnuing output: summative icon not output in SVG,Usability,Capability,Usability,Capability,Capability
+Copying and pasting an internal reference node from one map to another does n...,Reliability,Capability,Usability,Reliability,Reliability
+setting up compendiem,Installability,Installability,Installability,Installability,Installability
+"""Reading"" node by viewing node contents via node's text indicator tooltip",Capability,Usability,Usability,Usability,Capability
+Internal ref node doesn't go away from Unread view,Usability,Usability,Usability,Usability,Usability
+<Title> tags for web exports,Usability,Usability,Usability,Requirements,Usability
+duplication of contents of nodes on export,Usability,Capability,Migration,Capability,Capability
+GLOBAL: Advance Search Interface / Simple Search Interface,Requirements,Requirements,Migration,Usability,Requirements
+Word-friendly export that isn't an outline,Requirements,Requirements,Migration,Requirements,Requirements
+Simple copy selected node labels to plaintext clipboard,Usability,Requirements,Usability,Usability,Usability
+Link label text needs to be included in text exports,Usability,Requirements,Migration,Requirements,Usability
+Make Mac kb combinations work 'both ways',Standards,Usability,Usability,Usability,Requirements
+GLOBAL: Decision making features.,Requirements,Requirements,Usability,Requirements,Requirements
+GLOBAL: Word Processing Friendly Exports,Requirements,Requirements,Migration,Requirements,Requirements
+GLOBAL: Web Exports,Requirements,Requirements,Migration,Requirements,Requirements
+"""Home Window"" labels need to actually have the user names as part of their da...",Usability,Usability,Migration,Capability,Usability
+Reverse link,Requirements,Usability,Migration,Requirements,Usability
+Add count of views and nodes exported to export completed dialogs,Requirements,Usability,Migration,Requirements,Usability
+Addional syntax for Jabber messages / nodes detail interpretation,Requirements,Requirements,Requirements,Usability,Requirements
+After opening a view from the Views tab  the node window should close,Usability,Usability,Requirements,Usability,Capability
+Unique URLs for nodes in the new JPG export,Requirements,Requirements,Migration,Usability,Usability
+Copy both label/detail text to system clipboard in one go,Requirements,Usability,Usability,Usability,Usability
+Delete key on link label box should allow delete of link with prompt if no text,Usability,Requirements,Usability,Usability,Usability
+DnD label options - preference,Requirements,Requirements,Usability,Usability,Usability
+Enhancement: Global preference for arrowhead styles,Requirements,Usability,Usability,Usability,Requirements
+Export selected nodes on HTML outline,Usability,Requirements,Migration,Requirements,Requirements
+Formatting detail font size,Usability,Usability,Usability,Requirements,Usability
+Hand icon for right-drag movement,Usability,Usability,Usability,Usability,Usability
+Currently active Tag group in Search,Usability,Usability,Usability,Usability,Requirements
+Increase row height of lists,Usability,Usability,Usability,Usability,Usability
+Link from one node to a bunch of selected nodes,Requirements,Requirements,Usability,Requirements,Requirements
+Optional page info detail on HTML Views Detail view,Requirements,Requirements,Usability,Usability,Usability
+Links start from center,Requirements,Usability,Usability,Usability,Usability
+Mini search for list labels within a list view,Requirements,Requirements,Usability,Requirements,Requirements
+Paste text into view should create new node,Usability,Requirements,Usability,Usability,Usability
+Make Find a Map/List floating or persistent,Requirements,Usability,Usability,Requirements,Usability
+Tag assignment speed issues,Usability,Usability,Performance,Usability,Usability
+Upping the HTML outline indent level from 6,Requirements,Requirements,Usability,Capability,Requirements
+When switching views  any nodes that are selected are highlighted (with a bor...,Usability,Requirements,Usability,Usability,Usability
+"Paste from List into Map should be in ""List"" form",Usability,Capability,Usability,Capability,Usability
+Concept Node,Requirements,Requirements,Requirements,Requirements,Requirements
+Automatic file resize option for dragged-in graphics,Usability,Usability,Requirements,Requirements,Usability
+Checkbox on export to open containing folder,Requirements,Requirements,Requirements,Usability,Requirements
+"Concept of a ""Commons"" map",Usability,Requirements,Capability,Requirements,Requirements
+Drag n Drop node text into nodes,Usability,Requirements,Usability,Usability,Usability
+Give the ability to assign kb shortcuts to menu commands (or other actions?),Requirements,Usability,Usability,Requirements,Requirements
+Merge Save As JPEG and HTML Outline,Requirements,Requirements,Requirements,Requirements,Requirements
+Make favorites for view only - on select  open view,Usability,Usability,Usability,Usability,Usability
+Facility to add new reference node images for given file types,Requirements,Requirements,Usability,Usability,Requirements
+No Passwords (may be resolved now),Requirements,Integrity/Security,Integrity/Security,Integrity/Security,Requirements
+Node colours and borders,Usability,Usability,Usability,Capability,Usability
+Related Nodes (may be partially resolved with new Internal Ref nodes),Requirements,Requirements,Usability,Requirements,Requirements
+Print options for how many pages to use,Requirements,Usability,Usability,Requirements,Requirements
+Scribble pad needs text tool,Requirements,Requirements,Usability,Requirements,Requirements
+Collection of Search issues (needs to be reviewed/broken up),Requirements,Capability,Usability,Requirements,Requirements
+Snapshot web page when you Ref it,Requirements,Requirements,Usability,Requirements,Requirements
+Speed up cut/paste with images,Performance,Performance,Performance,Performance,Performance
+The dock for making regular transclusions,Requirements,Usability,Requirements,Requirements,Requirements
+"Use a Claimaker-style interface for Linking Info (""the Neighborhood"")",Usability,Usability,Usability,Usability,Requirements
+Export feature that generates a complete website with contents page,Requirements,Requirements,Usability,Requirements,Requirements
+Abandon shortctuts and allow multiple transclusions in a view (?),Requirements,Requirements,Usability,Requirements,Requirements
+Addressable Nodes,Requirements,Requirements,Requirements,Requirements,Requirements
+Arrange -- multiple (needs review),Usability,Usability,Usability,Usability,Usability
+Catalog views,Usability,Requirements,Requirements,Requirements,Requirements
+Collapse nodes into one node,Usability,Usability,Requirements,Requirements,Usability
+Dnd for movie files display first frame as icon image,Usability,Requirements,Usability,Usability,Usability
+Drap n Drop between external applications,Usability,Requirements,Usability,Requirements,Requirements
+Expand/collapse branches from selected nodes,Usability,Usability,Usability,Requirements,Requirements
+Hide all branches except selected node,Usability,Usability,Usability,Requirements,Requirements
+HTML editing,Usability,Usability,Usability,Usability,Usability
+Image resizing (at least partially resolved in 1.5.1),Usability,Requirements,Usability,Usability,Usability
+New undo options,Requirements,Requirements,Usability,Requirements,Requirements
+Sound and movie rollover,Requirements,Requirements,Usability,Requirements,Requirements
+Tranclusions in the same map,Requirements,Usability,Usability,Requirements,Requirements
+Wheel used for view drag on/off,Usability,Usability,Usability,Usability,Usability
+Nice export ideas from Chuck,Requirements,Requirements,Migration,Requirements,Requirements
+Dragging nodes against edges of map should scroll continuously,Usability,Usability,Usability,Capability,Usability
+Preserve label formatting in Outline export,Usability,Capability,Usability,Usability,Usability
+Option to have automatic outline numbering for 'tree' view,Requirements,Requirements,Usability,Requirements,Requirements
+Provide a way to create a new node  not linked to current node  but right nex...,Usability,Usability,Usability,Requirements,Usability
+Cntrl drag in white space to scroll the canvas,Usability,Usability,Usability,Usability,Usability
+Control +arrows page in direction of arrow,Requirements,Usability,Requirements,Requirements,Requirements
+Drag n Drop node link into detail,Usability,Requirements,Usability,Requirements,Requirements
+Drag nodes into Trashbin,Usability,Requirements,Usability,Requirements,Requirements
+Draw arrows so they don't shift when you add new label text,Usability,Requirements,Usability,Usability,Requirements
+Include links to/from shortcuts to a node in the Linking Info for that node (...,Requirements,Requirements,Usability,Requirements,Requirements
+Export multiple JPGs  not just one,Requirements,Requirements,Migration,Requirements,Requirements
+File:// in reference nodes,Requirements,Capability,Requirements,Reliability,Usability
+Html export outline and links - option,Requirements,Requirements,Migration,Requirements,Requirements
+Hot keys or buttons for moving selected text from Label to Detail and vice versa,Usability,Requirements,Usability,Requirements,Requirements
+Long link line jumps,Usability,Requirements,Usability,Usability,Usability
+Reverse two nodes,Usability,Requirements,Usability,Requirements,Requirements
+Set the default paper size,Capability,Capability,Usability,Capability,Capability
+Turn nodes to Tags,Usability,Requirements,Usability,Requirements,Requirements
+Transclude multiple nodes to new map,Usability,Requirements,Requirements,Requirements,Requirements
+Turning off Rollovers for some nodes,Usability,Capability,Requirements,Usability,Usability
+Update Audio Library,Requirements,Capability,Requirements,Integrity/Security,Requirements
+Convert nodes to text details  and v-v,Usability,Requirements,Usability,Requirements,Usability
+Maintaining label-edit selection when switching applications,Usability,Usability,Usability,Usability,Usability
+2 QuestMap impoprt issues,Migration,Capability,Usability,Capability,Capability
+Any prompt which relates to a Preferences setting has a checkbox to remember ...,Requirements,Usability,Usability,Usability,Usability
+Auditing/versioning,Requirements,Documentation,Requirements,Requirements,Requirements
+Auto linking,Requirements,Requirements,Requirements,Requirements,Requirements
+Command line url interface,Requirements,Requirements,Requirements,Usability,Requirements
+Reference node that opens other Compendium databases,Requirements,Requirements,Requirements,Requirements,Requirements
+Ctrl Y - repeat last action,Requirements,Usability,Requirements,Usability,Usability
+LaTeX Support,Requirements,Requirements,Requirements,Requirements,Requirements
+Submit Compendium to one or more freeware web sites,Installability,Documentation,Documentation,Installability,Installability
+Tags View > Insert into View - Confusion,Requirements,Usability,Requirements,Usability,Usability
+MAP NODE NOT RESPONDING,Reliability,Performance,Installability,Reliability,Reliability
+Undo for changing image size,Usability,Usability,Usability,Usability,Usability
+Hourglass for long map open (e.g. with images),Usability,Usability,Usability,Usability,Usability
+Hourglass for image size change,Usability,Usability,Usability,Usability,Usability
+tags and tag groups aren't exported,Reliability,Capability,Migration,Capability,Capability
+A number of features I thought would be cool (plus two bugs),Requirements,Requirements,Requirements,Requirements,Requirements
+The ability to temporarily 'lock' views open,Requirements,Requirements,Usability,Requirements,Requirements
+User settable MySQL database prefixes,Requirements,Requirements,Usability,Usability,Usability
+Issues with using find to pull together nodes with multiple tags,Reliability,Migration,Requirements,Reliability,Reliability
+Left-right scrolling,Usability,Usability,Usability,Usability,Usability
+Closing a node should save contents,Usability,Requirements,Usability,Usability,Usability
+Backspace should not delete nodes,Usability,Usability,Usability,Usability,Usability
+Tablet PCs and graphics drivers bug,Installability,Capability,Requirements,Reliability,Reliability
+Exporting to an XML file in an off-line directory can cause the file to be co...,Reliability,Usability,Migration,Reliability,Reliability
+There can be problems with permissions and Compendium accessing/creating subf...,Reliability,Capability,Integrity/Security,Reliability,Reliability
+Request label to detail auto jump be done at word breaks not character breaks,Migration,Requirements,Requirements,Capability,Requirements
+Suggest naming it Install-Compendium-1.5.2.pkg,Installability,Documentation,Documentation,Installability,Documentation
+Start up problem - movie invisible  welcome maps not apparent,Installability,Capability,Installability,Capability,Reliability
+Allow the Inbox feature to be an option. Enable/disable,Usability,Requirements,Usability,Requirements,Usability
+Warn user that they can't send a node to other users' inboxes from their home...,Usability,Usability,Usability,Usability,Usability
+Email notifications for shared Compendium projects,Requirements,Requirements,Requirements,Requirements,Requirements
+Unread View should refresh dynamically,Usability,Capability,Usability,Capability,Usability
+Add set as default to project mgmt window,Usability,Usability,Usability,Usability,Usability
+Cannot use trackpad on a powerbook,Migration,Capability,Usability,Capability,Capability
+Pan Map changes,Usability,Requirements,Usability,Requirements,Usability
+Copy-paste of nodes does not escape newline characters,Reliability,Capability,Usability,Capability,Usability
+Is Compendium free software ?,Documentation,Documentation,Documentation,Documentation,Documentation
+OpenLearn export fails when a map has circular links,Migration,Capability,Migration,Reliability,Reliability
+Power Export should generate index.html with links to all exports,Migration,Requirements,Migration,Requirements,Usability
+Full screen mode,Usability,Requirements,Usability,Requirements,Usability
+Number of nodes in a view object not reflecting the actual number of nodes in...,Usability,Capability,Usability,Capability,Usability
+Support for SQL Server/Oracle as a centralised database,Migration,Requirements,Migration,Requirements,Installability
+Accelerated creation of user-defined stencil,Usability,Usability,Usability,Usability,Usability
+Once saved are Compendium maps spotlight searchable?,Documentation,Requirements,Requirements,Requirements,Usability
+How to uninstall Compendium?,Installability,Documentation,Documentation,Documentation,Documentation
+maps not opening and node not linking with arrows,Reliability,Capability,Performance,Reliability,Usability
+Standalone Version?,Requirements,Requirements,Requirements,Installability,Requirements
+Views tags by usage  recency  and by cloud,Usability,Usability,Usability,Usability,Usability
+Typing tags should autocomplete  and not give error,Usability,Usability,Usability,Usability,Usability
+Add Right-click - Select All dependent nodes,Usability,Usability,Usability,Usability,Usability
+Add new node between existing nodes,Usability,Usability,Usability,Usability,Usability
+Runtime error with clicking on icons/dragging icons in map view,Reliability,Capability,Usability,Reliability,Reliability
+Using Enter on map background for easy node creation,Usability,Requirements,Usability,Usability,Usability
+"Picasa-style ""star"" button for easy node tagging",Usability,Usability,Usability,Usability,Usability
+Dim Make Tags and Make Groups unless text entered,Usability,Usability,Usability,Usability,Usability
+directly open items in working tags area,Usability,Usability,Usability,Usability,Usability
+copy an openned map,Usability,Usability,Usability,Capability,Usability
+Ability to turn cross-links off/on,Usability,Requirements,Usability,Usability,Usability
+Options for link route placement/adjustment,Usability,Requirements,Usability,Requirements,Usability
+Functionality to join links with other links,Usability,Requirements,Requirements,Requirements,Usability
+Frequency and/or prominence of node content within a map.,Usability,Requirements,Requirements,Requirements,Usability
+Ability to apply a specified size to multiple selected nodes for images or ic...,Usability,Requirements,Usability,Usability,Usability
+Indented text export to MS Word and Power Point,Migration,Requirements,Migration,Requirements,Requirements
+A removable frame/window workspace for text document access,Requirements,Requirements,Usability,Requirements,Usability
+When exporting  Compendium should select the last folder exported to within a...,Migration,Usability,Migration,Usability,Usability
+An amalgamation of features from Google style search functionality and treema...,Requirements,Requirements,Requirements,Usability,Requirements
+Analysis and Statistical Features,Requirements,Requirements,Requirements,Requirements,Requirements
+Drop Drag for external applications,Usability,Requirements,Migration,Usability,Usability
+I18N - compound characters ignored,Capability,Capability,Usability,Capability,Capability
+wikipedia page for compendium software,Documentation,Documentation,Documentation,Documentation,Documentation
+MySQL query speed,Performance,Performance,Performance,Performance,Performance
+User option to specify font size of fonts used in Compendium dialog boxes.,Usability,Usability,Usability,Usability,Usability
+Need a volunteer?,Documentation,Documentation,Documentation,Documentation,Documentation
+Problem with Greek language txt notes,Installability,Capability,Installability,Installability,Capability
+Help in using Compendium in a group working environment,Usability,Documentation,Requirements,Documentation,Usability
+Compendium freezes after clicking on an icon,Reliability,Capability,Installability,Reliability,Reliability
+Command Line access for Export operation,Requirements,Requirements,Migration,Requirements,Requirements
+launch application,Installability,Capability,Installability,Capability,Capability
+Paths in Reference nodes are not platform-agnostic,Migration,Capability,Migration,Capability,Migration
+root user for MySQL,Installability,Requirements,Integrity/Security,Integrity/Security,Integrity/Security
+Enhance pathways to update Tags,Usability,Requirements,Usability,Requirements,Requirements
+Enhance pathways to update Tags,Usability,Usability,Usability,Usability,Usability
+Enhance pathways to update Tags,Usability,Usability,Usability,Usability,Usability
+Improvements to outline,Requirements,Requirements,Requirements,Requirements,Requirements
+trouble logging in,Installability,Installability,Installability,Installability,Installability
+Will not QUIT the program when using MySql,Reliability,Capability,Usability,Capability,Capability
+This link to download icon sets is dead,Documentation,Documentation,Reliability,Capability,Installability
+Failure to initiate Compendium,Installability,Installability,Installability,Installability,Installability
+Allow node text background to be transparent as well,Usability,Requirements,Usability,Usability,Usability
+Leopard update,Migration,Migration,Migration,Migration,Migration
+Add ability to search externally referenced documents from within Compendium,Requirements,Requirements,Usability,Requirements,Requirements
+XML Export corrupt on linux,Migration,Capability,Migration,Capability,Reliability
+List views should show custom icons for List  Map  and Reference nodes,Usability,Capability,Usability,Capability,Usability
+"Create ""template"" Stencil item",Requirements,Usability,Usability,Usability,Usability
+Default the Node Image field to selected node type's image,Usability,Usability,Usability,Usability,Usability
+Clearly indicate required fields in Stencil dialogs,Usability,Usability,Usability,Usability,Usability
+Default buttons in Stencil dialogs,Usability,Capability,Usability,Capability,Capability
+program will not start,Installability,Installability,Installability,Installability,Installability
+List Node Header Spacing is not Remembered,Usability,Usability,Usability,Usability,Usability
+"Following the ""Please Contact Support"" instructions",Installability,Documentation,Documentation,Documentation,Documentation
+question about installation,Installability,Installability,Installability,Installability,Installability
+downloading and installing on Mac OS Tiger,Installability,Installability,Installability,Installability,Installability
+Feature Request,Requirements,Requirements,Requirements,Requirements,Requirements
+Node position info needs rethinking as it is causing problems,Requirements,Capability,Requirements,Capability,Usability
+XML Export/Import needs to include the node formatting information,Migration,Requirements,Migration,Requirements,Usability
+Add weight indicator to trashbin icon,Requirements,Requirements,Usability,Requirements,Usability
+Add column sorting on icon indicator columns in list and task tables,Usability,Requirements,Usability,Requirements,Usability
+Overlaying shortcut icon on node icon image,Usability,Capability,Usability,Usability,Capability
+Template import option to leave nodes as unread rather than make then all read.,Requirements,Capability,Usability,Requirements,Requirements
+dragging tags to move them into a tag group is not working for me,Reliability,Capability,Usability,Capability,Reliability
+include tags and tag groups in web map exports,Migration,Usability,Usability,Usability,Usability
+Checkbox node or an option to have a checkbox besides the text,Usability,Usability,Usability,Requirements,Requirements
+Web site download fails,Documentation,Installability,Reliability,Installability,Installability
+Research feature,Usability,Requirements,Requirements,Requirements,Requirements
+Export characteristics,Migration,Requirements,Requirements,Capability,Usability
+HTML Export Feature,Migration,Requirements,Requirements,Requirements,Requirements
+Download page not available,Documentation,Installability,Installability,Installability,Installability
+CPU usage spikes when mouse pointer is over a node,Performance,Performance,Performance,Performance,Performance
+How to write the link in the html file,Usability,Documentation,Reliability,Capability,Capability
+can't download more than one time,Installability,Installability,Installability,Installability,Installability
+I Had a dream...,Requirements,Requirements,Requirements,Requirements,Requirements
+Tag usage improvement,Migration,Requirements,Requirements,Requirements,Usability
+WebMap has a problem in Firefox with scrolling,Migration,Capability,Migration,Capability,Usability
+Export Function with Update Only,Migration,Requirements,Migration,Requirements,Requirements
+Can't drop and drop nodes,Usability,Usability,Usability,Capability,Usability
+Working with Windows ?,Requirements,Usability,Requirements,Usability,Usability
+Moving a Map,Requirements,Usability,Usability,Usability,Usability
+Tag with large counts covers checkbox,Usability,Capability,Usability,Capability,Usability
+RSS Feed ?,Requirements,Requirements,Migration,Requirements,Requirements
+Selecting existing node for ALT-shortcut child deletes parent,Usability,Capability,Reliability,Capability,Capability
+Expert system,Requirements,Requirements,Requirements,Requirements,Requirements
+Without default project can open multiple Open Project dialogs,Capability,Capability,Usability,Capability,Capability
+Locked views,Usability,Requirements,Usability,Requirements,Requirements
+"Ability to enable/disable ""Rearrange"" function on a per-Map basis",Usability,Usability,Requirements,Requirements,Requirements
+downloading problem,Installability,Installability,Installability,Installability,Installability
+Exporting/sharing file with another user,Migration,Requirements,Capability,Capability,Requirements
+Files written to installation directory,Migration,Installability,Installability,Integrity/Security,Installability
+Cannot execute compendium.sh through symlink,Capability,Capability,Reliability,Reliability,Installability
+Cant create new maps,Reliability,Documentation,Reliability,Capability,Capability
+Cannot remove a project from project management,Usability,Capability,Reliability,Capability,Capability
+Clone a Concept,Usability,Capability,Reliability,Capability,Usability
+Automatically delete Linked Files,Usability,Requirements,Requirements,Requirements,Usability
+Sort nodes in the outline view,Usability,Requirements,Requirements,Usability,Usability
+Delays After Clicking a Node,Performance,Performance,Performance,Performance,Performance
+Synchronous shared Compendium over the internet (you see my screen),Requirements,Requirements,Requirements,Requirements,Requirements
+Auto-complete should display nodes with matching substring in name,Requirements,Usability,Usability,Usability,Usability
+Lock node location on the screen,Usability,Usability,Usability,Requirements,Usability
+Allow links between nodes in different maps,Requirements,Usability,Usability,Usability,Usability
+Prob: Dragging and dropping Excel Worksheet for building nodes structure,Migration,Capability,Reliability,Capability,Usability
+Errors in export to HTML Map,Reliability,Capability,Reliability,Reliability,Reliability
+Suppress or escape special characters in HTML export,Migration,Requirements,Requirements,Capability,Usability
+Friendly tooltips on Web Export,Migration,Requirements,Requirements,Capability,Usability
+Be able to define tags group inside another tags group,Requirements,Usability,Usability,Usability,Requirements
+Be able to create slides show based on existing maps,Requirements,Requirements,Requirements,Requirements,Requirements
+locked out of files due to forgotten user name and password,Integrity/Security,Integrity/Security,Integrity/Security,Integrity/Security,Integrity/Security
+Crash during install on Alpha 5 version in Debian Sid,Installability,Installability,Installability,Installability,Installability
+Implement a scrollabel desktop,Usability,Requirements,Usability,Usability,Usability
+Disappearing Stencils,Reliability,Capability,Reliability,Reliability,Usability
+Start-up not operational,Installability,Installability,Installability,Installability,Installability
+unknown string message,Capability,Capability,Reliability,Usability,Capability
+reading Derby databaase (1.5.3 version) into version 2.0 : lost the linked di...,Reliability,Migration,Reliability,Migration,Reliability
+Excel drop stops if there is an empty cell within the matrix being processed.=,Migration,Capability,Reliability,Capability,Reliability
+Snow Leopard,Installability,Migration,Migration,Migration,Migration
+Word-processing-friendly export,Migration,Capability,Migration,Requirements,Usability
+Keyboard navigation from node to node,Usability,Usability,Usability,Usability,Usability
+display when sharing using Cisco WebEx Meeting Center,Reliability,Capability,Usability,Capability,Usability
+Compendium on Moodle 1.9,Documentation,Documentation,Documentation,Documentation,Documentation
+Linked files cannot be found,Reliability,Capability,Reliability,Reliability,Usability
+Not able to Uninstall- then Reinstall new version of Compendium,Installability,Installability,Installability,Installability,Installability
+Failed to install (Vista) JRE code 740,Reliability,Installability,Installability,Installability,Installability
+documentation,Documentation,Documentation,Documentation,Documentation,Documentation
+Viewing Tags,Usability,Requirements,Requirements,Requirements,Usability
+Neither web outline nor MS Word show non-English characters,Migration,Capability,Requirements,Capability,Usability
+recognizing bookmarks inside PDF,Usability,Requirements,Requirements,Requirements,Requirements
+Closing a movie map with a running movie still playing can crash Compendium,Reliability,Capability,Reliability,Reliability,Reliability
+drag and drop of image from firefox failing,Reliability,Capability,Reliability,Reliability,Reliability
+It would be nice to have the 'move label into detail' and 'move detail into l...,Requirements,Usability,Requirements,Usability,Requirements
+View navigation,Usability,Usability,Requirements,Usability,Requirements
+Deep Linking (Command Line Option or URL handler),Requirements,Usability,Requirements,Requirements,Requirements
+FreeMind reference file search? or VUE integration?,Requirements,Requirements,Requirements,Requirements,Requirements
+"Switching from the ""advanced"" interface back to the normal one in user prefer...",Usability,Capability,Reliability,Reliability,Reliability
+Compendium holds the focus and won't let other windows in front,Usability,Capability,Reliability,Usability,Usability
+Excel drag and drop import can't handle in-cell line breaks/empty lines (at ...,Migration,Capability,Reliability,Capability,Usability
+Filenames are light grey text in choose file dialogues  hard to read (Mac),Usability,Usability,Usability,Usability,Usability
+Freeze when trying to change node type,Reliability,Capability,Reliability,Reliability,Reliability
+Some movie file formats cause Compendium to crash,Reliability,Capability,Reliability,Reliability,Reliability
+Orange/Green tag highlighting not working on Mac,Migration,Capability,Reliability,Capability,Usability
+Shift+drag movie resizing should keep proportions,Usability,Usability,Requirements,Usability,Usability
+Tag indicator not appearing after insert into view from search,Usability,Capability,Usability,Capability,Usability
+Changing a label's colour/bg  or link type/colour should show the new colour ...,Usability,Usability,Usability,Usability,Usability
+Stencils and templates menu need to allow xml.zip files as well as just xml f...,Requirements,Requirements,Usability,Requirements,Requirements
+Progress Bar for unzipping as with Movies it takes ages,Performance,Requirements,Performance,Requirements,Requirements
+Grouping tags: on dragging one or more tags into a group  the group folder sh...,Usability,Requirements,Requirements,Requirements,Requirements
+Web Outline export not working for new maps,Migration,Migration,Reliability,Migration,Reliability
+Movies  pdf  website etc don't launch on Linux.,Migration,Capability,Migration,Capability,Reliability
+Endless  hourglass / rolling donut on Linux when Compendium open.,Usability,Capability,Reliability,Usability,Usability
+Running a search in the help system causes endless loop,Reliability,Capability,Reliability,Reliability,Reliability
+Scribble Layer should zoom when map does.,Usability,Usability,Usability,Usability,Usability
+Toolbar/history bar visibility and placement do not always persist across ses...,Usability,Usability,Reliability,Usability,Capability
+"Apostrophe "" ' "" not importing into Word correctly",Migration,Capability,Reliability,Capability,Usability
+drag & drop items cum arrows,Requirements,Usability,Requirements,Requirements,Requirements
+Cursor stays 'thinking' in the Outline View section,Usability,Usability,Reliability,Usability,Usability
+Expanding collapsed main menu does not work,Reliability,Capability,Reliability,Capability,Usability
+export to svg or other mm software,Requirements,Requirements,Migration,Requirements,Requirements
+Error: (ViewPane.UI.CreateNode.actionPerformed),Reliability,Capability,Reliability,Reliability,Reliability
+Automatic decluttering hairball networks,Requirements,Usability,Requirements,Requirements,Requirements
+Metadata tags with properties,Requirements,Requirements,Requirements,Requirements,Requirements
+Project problems & recovery,Migration,Migration,Reliability,Installability,Reliability
+List converted to Map continues as List,Usability,Capability,Reliability,Capability,Usability
+Missing image in help,Usability,Documentation,Usability,Documentation,Usability
+Can add stencil but not remove,Documentation,Usability,Usability,Capability,Usability
+Cut-Paste does not need embedding warning,Usability,Requirements,Usability,Usability,Usability
+Help on Inbox goes to the wrong page,Documentation,Documentation,Documentation,Documentation,Documentation
+Make Export directory location user settable,Migration,Requirements,Requirements,Requirements,Capability
+Hourglass cursor remains when Home view selected,Usability,Capability,Reliability,Usability,Usability
+Refresh View doesn't work for local MySQL database,Reliability,Capability,Reliability,Usability,Reliability
+Have relative paths entered automatically for cross platform support,Usability,Usability,Requirements,Usability,Capability
+bad file permissions  as packaged,Installability,Integrity/Security,Integrity/Security,Integrity/Security,Integrity/Security
+First Impressions  Comments  Suggestions  and General Remarks,Requirements,Usability,Requirements,Usability,Requirements
+Compendium main window cannot be resized,Usability,Capability,Usability,Usability,Usability
+icons not displayed,Usability,Capability,Usability,Capability,Usability
+detail popups exlcluded in web maps,Usability,Capability,Usability,Capability,Usability
+thickness of links does not change,Usability,Capability,Usability,Capability,Capability
+lost link groups,Usability,Capability,Usability,Capability,Usability
+Ref. node: manual pasting url into the ref-field,Usability,Usability,Requirements,Usability,Usability
+Restore To Project for MySQL DB Fails,Migration,Migration,Reliability,Migration,Migration
+Cannot open project,Reliability,Capability,Installability,Reliability,Reliability
+File Path length in reference node limited to 88 characters,Reliability,Capability,Requirements,Capability,Usability
+Saving projects to run on other Pcs?,Migration,Documentation,Migration,Reliability,Reliability
+Can't delete nodes or maps  Aerial View is non-responsive and hourglass won't...,Usability,Capability,Reliability,Capability,Reliability
+Slow performance at startup,Performance,Performance,Performance,Performance,Performance
+Compendium Launch,Installability,Installability,Reliability,Installability,Installability
+An open Map window doesn't show up in the Window menu list,Reliability,Capability,Reliability,Reliability,Usability
+Error message opening Note node,Reliability,Capability,Reliability,Reliability,Reliability
+information request for Compendium 1.5.2,Documentation,Installability,Documentation,Documentation,Documentation
+Node Format Toolbar does not reappear when checked,Usability,Capability,Usability,Capability,Capability
+If a map node is inside itself  deleting or cutting the map node closes the m...,Usability,Usability,Reliability,Usability,Usability
+Moving between projects in one session get null error,Reliability,Capability,Reliability,Reliability,Reliability
+Copy and paste from one project to another in same compendium instance,Reliability,Usability,Usability,Reliability,Reliability
+Zoom auto-changes from 75% to 100% as result of clicking Focus Node after pas...,Usability,Usability,Requirements,Usability,Usability
+Clicking Zoom In when the view is at Fit to Page goes right to 100%,Usability,Usability,Usability,Usability,Usability
+Shortcuts should preserve Details content  not just Label,Usability,Usability,Requirements,Usability,Usability
+Wrong website linked by Quick Start.,Documentation,Documentation,Reliability,Documentation,Documentation
+error submitting for survey,Documentation,Usability,Documentation,Documentation,Documentation
+"Web outline export translates apostrophes into ""&apos;""",Migration,Capability,Usability,Capability,Usability
+feature requests from a absolute newbie: mentor  skill-level & feedback,Requirements,Documentation,Documentation,Requirements,Requirements
+Option for Automatic Weighting or Manual Voting,Requirements,Requirements,Requirements,Requirements,Requirements
+Drag image to create node,Usability,Usability,Requirements,Requirements,Requirements
+Software seems to seek for something after you try to import an xml file whic...,Migration,Capability,Reliability,Capability,Capability
+"""Search Google"" data compromise",Usability,Capability,Usability,Usability,Usability
+Open a project results in an exception,Reliability,Capability,Reliability,Reliability,Reliability
+style palette,Usability,Usability,Usability,Usability,Usability
+size of minimised map window,Usability,Usability,Usability,Usability,Usability
+web link page title -> ref node label,Usability,Usability,Usability,Usability,Usability
+Same 'Javaw' issue,Installability,Installability,Installability,Installability,Installability
+map windows claustrophobic movement solution,Requirements,Usability,Requirements,Requirements,Requirements
+Export > Web Maps > referenced files not being exported,Reliability,Capability,Migration,Capability,Capability
+exception opening map after returning to previous project,Reliability,Capability,Reliability,Reliability,Reliability
+Shortcut nodes in different views = issues (possible solution included),Reliability,Capability,Reliability,Reliability,Reliability
+Won't install Java  won't run,Installability,Installability,Installability,Installability,Installability
+"""Mark seen"" does not working when importing xml",Migration,Capability,Reliability,Capability,Capability
+Nodes do not open,Reliability,Migration,Reliability,Reliability,Reliability
+Does not find if part of search string is in label and part in detail,Usability,Capability,Reliability,Capability,Usability
+Drag and dropped files get wrong path on Linux,Migration,Capability,Reliability,Reliability,Reliability
+Node time spans are gone after restart (MySQL database),Reliability,Capability,Reliability,Reliability,Reliability
+Timeline view,Requirements,Requirements,Requirements,Requirements,Requirements
+Ability to use search plugins (e.g.  Sherlock/OpenSearch) in References,Requirements,Usability,Requirements,Requirements,Requirements
+Change Auto Label Searching to a preference,Requirements,Migration,Usability,Migration,Migration
+Links do not open in browser,Usability,Capability,Reliability,Reliability,Reliability
+Installed  but will not open / boot,Installability,Installability,Installability,Installability,Installability
+Links on welcome page seem not to be working.,Usability,Capability,Reliability,Capability,Usability
+I'm not getting either of my projects to open.,Usability,Capability,Installability,Capability,Reliability
+Cannot Create a New Node in a Re-opened Map,Reliability,Capability,Reliability,Reliability,Reliability
+Setting standard behavior for drawing links,Usability,Usability,Usability,Usability,Usability
+adding nodes to lists difficult,Usability,Usability,Usability,Usability,Usability
+Want to sort a List node by my own category,Requirements,Requirements,Requirements,Requirements,Requirements
+Error once application is installed,Installability,Installability,Reliability,Installability,Installability
+Launch fails for Word files drag & dropped into map,Reliability,Capability,Installability,Capability,Reliability
+Ability to copy all nodes in a map to a new map,Usability,Usability,Usability,Usability,Usability
+Can't run Compendium after installation,Installability,Installability,Installability,Installability,Installability
+Compendium appears on absent screens,Capability,Capability,Migration,Migration,Capability
+Windows 7,Migration,Requirements,Migration,Migration,Migration
+Created projects fail to open,Reliability,Capability,Reliability,Capability,Capability
+display-problems after cloning and copy/paste,Usability,Capability,Reliability,Capability,Capability
+software instaled and not working,Installability,Installability,Installability,Installability,Installability
+Unable to launch Compendium Installer,Installability,Installability,Installability,Installability,Installability
+cannot download,Installability,Installability,Installability,Installability,Installability
+Will there be an iPad version of Compendium?,Requirements,Requirements,Migration,Requirements,Requirements
+Export Compendium Map as OPML,Requirements,Requirements,Migration,Requirements,Requirements
+Compendium installed but won't start,Installability,Installability,Installability,Installability,Installability
+Pls make a basic Compendium for Android phones,Requirements,Requirements,Migration,Requirements,Requirements
+Having trouble getting started with Compendium,Installability,Usability,Usability,Documentation,Usability
+Formatting of text associated with a Node,Usability,Usability,Usability,Usability,Usability
+Linking by drag-hover,Requirements,Requirements,Requirements,Requirements,Requirements
+Web UI,Requirements,Requirements,Migration,Requirements,Requirements
+General query - seeking permission to use logo,Documentation,Documentation,Documentation,Documentation,Documentation
+Accessing maps from different computers,Documentation,Usability,Migration,Documentation,Documentation
+Download,Installability,Installability,Installability,Installability,Installability
+Automatically creating links between existing and new thoughts,Requirements,Requirements,Requirements,Requirements,Requirements
+Changing Node Type creates problems,Usability,Capability,Usability,Reliability,Usability
+Moving installation,Migration,Documentation,Documentation,Migration,Migration
+Integration with mendeley and other reference managers,Migration,Requirements,Requirements,Requirements,Requirements
+Firefox 19.0.2,Migration,Capability,Reliability,Capability,Reliability
+cannot open,Installability,Installability,Installability,Installability,Installability
+Can't Download,Installability,Installability,Installability,Installability,Installability
+Compendium map sometimes collapses unexplainably and I cannot load Compendium LD,Reliability,Capability,Reliability,Reliability,Reliability
+Compendium NG won't start after installation,Installability,Installability,Installability,Installability,Installability
+Unable to link nodes using OS X 10.9.3,Migration,Installability,Reliability,Migration,Migration
+Download of Old Versions,Migration,Migration,Installability,Migration,Migration
+"Error Message - ""Error. (ViewPaneUI.checkLinkRollover) null""",Reliability,Capability,Reliability,Reliability,Reliability
+map/list windows that opened in non-maximized state take two clicks to maximize,Usability,Capability,Migration,Capability,Capability
+Print initiation is slow,Performance,Performance,Performance,Performance,Performance
+Rollover image doesn't update after being swapped out,Usability,Capability,Usability,Capability,Usability
+Matching map and printer output,Usability,Usability,Usability,Usability,Usability
+Add menu item for exporting templates,Requirements,Usability,Requirements,Requirements,Requirements
+First letter kb shortcut for navigating through Views list (Windows convention),Usability,Usability,Usability,Usability,Usability
+Opens program and then crashes,Reliability,Capability,Reliability,Reliability,Reliability
+Selecting a workspace displays incorrect windows,Usability,Capability,Usability,Capability,Usability
+right to left layout pushes node further awaay,Usability,Capability,Usability,Usability,Usability
+Outline export does not display umlauts,Migration,Capability,Usability,Capability,Capability
+On-line bug reporting link,Documentation,Requirements,Usability,Usability,Usability
+Remove password length restriction (to zero?),Integrity/Security,Integrity/Security,Integrity/Security,Integrity/Security,Integrity/Security
+Sound only (no vision) from videos,Usability,Capability,Usability,Capability,Capability
+Paste/cut nodes into List is not updating Views indicators,Usability,Capability,Usability,Capability,Usability
+Shortcut icon for reference node - wrong,Usability,Capability,Usability,Capability,Usability
+XML Import did not preserve author name,Migration,Capability,Requirements,Capability,Capability
+Problems with displaying status bar,Usability,Capability,Requirements,Capability,Usability
+Bug with Stencil set ordering,Usability,Capability,Migration,Usability,Usability
+Stop windows moving outside accessible area.,Usability,Usability,Usability,Usability,Usability
+Node icons not drawing in the Help pages.,Usability,Capability,Usability,Capability,Usability
+Circle and line tool disapear when selected,Usability,Capability,Usability,Usability,Usability
+"Program adds slashes (/) before quotations ("")",Usability,Capability,Usability,Capability,Capability
+Tags : Show Nodes fails for a tag,Reliability,Capability,Reliability,Reliability,Reliability
+Icons not shown,Usability,Capability,Usability,Usability,Usability
+Link to log file for missing reference files,Usability,Usability,Reliability,Usability,Usability
+Color chooser doesn't show selected color for node text background after reopen,Usability,Usability,Usability,Usability,Usability
+Shortcuts exported than imported as XML become regular nodes,Migration,Capability,Usability,Capability,Capability
+Loosing transclusion and weight indicators from 1.4 to 1.5,Migration,Migration,Reliability,Migration,Migration
+File names for HTML web export cannot have '...' as this breaks on Linux,Reliability,Capability,Usability,Usability,Reliability
+"""drag and drop"" to create a node is not working with the scribble pad",Usability,Capability,Usability,Capability,Usability
+When you delete a node  it doesn't disappear until you restart app,Usability,Capability,Usability,Usability,Usability
+Crash when dragging on a node or clicking a node,Reliability,Capability,Reliability,Reliability,Reliability
+Add a blank gif to Reference Node Icons folder (or similar),Requirements,Usability,Usability,Requirements,Requirements
+Long delay when changing icon image for map nodes,Performance,Performance,Performance,Performance,Performance
+New nodes in zoomed view have full-size font initially,Usability,Usability,Usability,Usability,Usability
+Node won't delete until app is shut down and restarted,Usability,Capability,Usability,Capability,Capability
+Have an option to set a default background for maps,Requirements,Requirements,Usability,Requirements,Requirements
+Add buttons for 'move label into detail' and 'move detail into label' to the ...,Usability,Usability,Usability,Usability,Usability
+Installation in Ubuntu dapper,Installability,Installability,Installability,Installability,Installability
+Tablet PC interface,Migration,Usability,Migration,Usability,Requirements
+Alt+n opens a strange Input Window,Usability,Capability,Usability,Usability,Usability
+Image rollover not going away if node deleted.,Usability,Capability,Usability,Capability,Usability
+Clone Nodes does not correctly display refrence node icon,Usability,Capability,Usability,Usability,Usability
+Align doesn't work correctly when zoom is at 75%,Usability,Capability,Usability,Usability,Usability
+Bug pasting a map node inside itself when zoom is at 75%,Usability,Capability,Usability,Usability,Usability
+Two different size icons at 75% zoom,Usability,Capability,Usability,Usability,Usability
+Export to HTML Outline bug with references,Migration,Capability,Migration,Capability,Capability
+label wrapping when zoomed changes,Usability,Capability,Usability,Usability,Usability
+Loosing links when using copy/paste from/to another database,Usability,Capability,Usability,Capability,Usability
+Bug inserting large search results into a view,Reliability,Capability,Reliability,Reliability,Reliability
+Export to XML bug,Migration,Capability,Migration,Capability,Capability
+HTML Views with included referenced files - gets it wrong,Usability,Capability,Reliability,Capability,Capability
+Tag creation bug from drop-down box.,Reliability,Capability,Reliability,Reliability,Reliability
+Bold text in HTML outline export is a problem,Usability,Usability,Usability,Capability,Usability
+MySQL Socket Connection Reset bug / timeout issues,Reliability,Capability,Reliability,Reliability,Reliability
+Bug - problem with large jpg/views export,Reliability,Capability,Reliability,Reliability,Reliability
+Bug with inserting from Search results into List when node already in list,Usability,Performance,Reliability,Reliability,Reliability
+Pasting nodes - location in map at 75% zoom not right,Usability,Capability,Usability,Usability,Usability
+Mac freezes when backup from File menu option.,Reliability,Capability,Reliability,Reliability,Reliability
+Horizontal shift of node positions in a map,Usability,Capability,Usability,Usability,Usability
+Shift selecting multiple nodes to right-click deselects the actual node you a...,Usability,Capability,Usability,Usability,Usability
+When you transclude to a new Map  make the link Expands on,Requirements,Requirements,Requirements,Requirements,Requirements
+Make the default link in the IBIS linkset to be: Responds to - change colour ...,Requirements,Requirements,Usability,Requirements,Requirements
+Export to html details buggy,Usability,Capability,Migration,Capability,Capability
+Exported outline does not make sense,Usability,Capability,Reliability,Capability,Capability
+Show database type in projectopen,Requirements,Usability,Requirements,Requirements,Requirements
+Change Type to List and then back to another type fails,Reliability,Capability,Reliability,Capability,Capability
+Foreign characters requiring two key strokes don't work in node and link labels,Usability,Capability,Reliability,Capability,Capability
+Add extra depth to Linked Files folder structure to include subfolders for ea...,Usability,Requirements,Requirements,Requirements,Requirements
+Font size,Usability,Capability,Usability,Usability,Usability
+How to load databases from previous version?,Migration,Migration,Installability,Migration,Migration
+Add version number to opening dialog,Usability,Documentation,Requirements,Requirements,Usability
+Template loaded from the Templates Menu are loaded as Unseen nodes,Usability,Capability,Reliability,Capability,Capability
+re-import into map loses links unless node ID's are preserved,Migration,Capability,Migration,Capability,Capability
+Need a way to apply node formatting setting to a whole project,Usability,Usability,Requirements,Requirements,Requirements
+Toolbar,Reliability,Capability,Installability,Capability,Capability
+Putting commas in the Project name when creating a new project causes major p...,Reliability,Capability,Reliability,Reliability,Reliability
+Formatting options for link lines,Usability,Requirements,Usability,Requirements,Requirements
+Label text color change,Usability,Usability,Usability,Usability,Usability
+Can't arrange map,Usability,Capability,Usability,Capability,Usability
+Java Version Problem,Installability,Installability,Installability,Installability,Installability
+After importing XML opening the imported map shows no nodes,Usability,Capability,Reliability,Capability,Usability
+Need an easy way to delete a node from all views (+ a thanks!),Requirements,Usability,Requirements,Requirements,Requirements
+Add template to stencil,Requirements,Requirements,Requirements,Requirements,Requirements
+Export templates and stencils,Migration,Requirements,Usability,Requirements,Requirements
+UI freezes if a cycle is created,Reliability,Capability,Reliability,Reliability,Reliability
+Text colour loss when importing XML files,Migration,Capability,Usability,Capability,Usability
+Tag layout frame,Requirements,Usability,Usability,Requirements,Usability
+Export setting for line spacing between nodes/paragraphs,Migration,Requirements,Migration,Requirements,Requirements
+# anchor for a local HTML file,Usability,Capability,Requirements,Usability,Usability
+Long delay before getting Login to a Project dialog after startup w/Derby,Performance,Performance,Performance,Performance,Performance
+Set Percentage of Actual Size doesn't display previous selection,Usability,Capability,Reliability,Usability,Usability
+File browse button on Mac should start at current file location,Usability,Capability,Requirements,Usability,Usability
+Problem starting Compendium,Installability,Installability,Installability,Installability,Installability
+Node Anchor ID wrong for transcluded nodes when exported.,Usability,Capability,Reliability,Capability,Capability
+MySQL map background colour setting failure.,Reliability,Capability,Reliability,Reliability,Reliability
+Linking to issue 927 - creating blank database,Installability,Migration,Reliability,Reliability,Migration
+Download Issues,Installability,Installability,Installability,Installability,Installability
+Compendium is 'always on top' over other programs - without asking,Usability,Usability,Usability,Usability,Usability
+Hiding/showing task timing information distorts layout on reopening activity map,Usability,Capability,Usability,Usability,Usability
+Images daragged'n'dropped into learning activity : path to image file is lost,Usability,Capability,Reliability,Capability,Usability
+Cut'n paste of nodes fails on paste,Reliability,Capability,Reliability,Reliability,Reliability
+Error on copying Learning outcome node from one Map View to another,Reliability,Capability,Reliability,Reliability,Reliability
+Last node position not remembered correctly.,Usability,Capability,Usability,Usability,Usability
+Stencils set label and hint text is escaped for XML,Usability,Capability,Usability,Capability,Usability
+Specify background colour for a map view,Requirements,Usability,Usability,Usability,Usability
+Bug in exporting to XML: 'all maps',Migration,Capability,Migration,Capability,Capability
+Bug with position of last node added to a map shifting so slightly off when m...,Reliability,Capability,Reliability,Capability,Usability
+Can't reset default link type,Reliability,Capability,Requirements,Capability,Capability
+Extra pages in node detail fail,Usability,Capability,Reliability,Usability,Usability
+when link areas overlap can't always get focus in link label area.,Usability,Capability,Usability,Usability,Usability
+Compendium won't start on OS X,Installability,Installability,Migration,Installability,Installability
+When using functions that focusNodeAndScroll  selected nodes were deleted,Reliability,Capability,Reliability,Reliability,Reliability
+Unable to see a delete of a node when it has other transclusions  without res...,Usability,Usability,Reliability,Usability,Usability
+Can't Backup or Convert from MySQL,Reliability,Capability,Reliability,Reliability,Reliability
+Cannot change User Options. Dialog freezes on saving.,Reliability,Capability,Reliability,Reliability,Reliability
+Either password or user name is not stored,Reliability,Integrity/Security,Integrity/Security,Integrity/Security,Integrity/Security
+Have the maps which load automatically for a New project be drawn from an XML...,Requirements,Usability,Requirements,Requirements,Requirements
+IBIS link group is not automatically set as the default link group when there...,Usability,Capability,Requirements,Capability,Usability
+Backing up from Derby escaped all backslash characters when not required.,Usability,Capability,Requirements,Usability,Capability
+Include map titles in Web Maps export,Migration,Requirements,Migration,Requirements,Requirements
+Need an undo for color change (and really for all node formatting changes),Usability,Requirements,Usability,Usability,Usability
+A way to switch views like Alt-Tab (cycle through open windows),Usability,Requirements,Usability,Usability,Usability
+Add all node icon indicators to List views as columns.,Usability,Usability,Usability,Usability,Usability
+Preferred line spacing for HTML Outline export,Usability,Requirements,Usability,Usability,Usability
+Updating List labels,Usability,Requirements,Requirements,Usability,Usability
+Redesign tags interface as a tree.,Usability,Usability,Usability,Usability,Usability
+Web Maps export without including full-size images,Migration,Requirements,Usability,Usability,Usability
+Ability to include line breaks in Labels,Usability,Requirements,Usability,Requirements,Usability
+(1.5 beta) Deleting or cutting a node takes a very long time,Performance,Performance,Performance,Performance,Performance
+Exception: Column '10' not found.,Reliability,Capability,Reliability,Reliability,Reliability
+"""Apply format to all transclusions"" -- not working?",Reliability,Capability,Reliability,Capability,Usability
+Cannot keep mulitple selection and use the right-click menu,Usability,Usability,Usability,Usability,Usability
+ToolTips in Tag panel's node list,Usability,Usability,Usability,Usability,Usability
+Alt-Click/Alt-Shift-Click do not select node's children/parents,Usability,Capability,Reliability,Capability,Capability
+It's too hard to pick the same node label colour repeatedly,Requirements,Usability,Usability,Usability,Usability
+Separate Tags and Views display in Web Outline Export,Migration,Usability,Usability,Usability,Usability
+Create unique styles for Tags and Views in Web Outline Export,Migration,Requirements,Usability,Requirements,Requirements
+Add comma between tags in Web Outline Export,Migration,Requirements,Usability,Usability,Usability
+Place Tags & Views info after Detail in Web Outline Export,Migration,Usability,Usability,Usability,Usability
+Duplicate stencil appears empty when opened,Reliability,Capability,Usability,Capability,Capability
+assign tag without having to close node notes/detail/properties,Usability,Usability,Usability,Usability,Usability
+Need some way to increase font size in new Tags View,Usability,Requirements,Usability,Requirements,Requirements
+Map Weight Column in Lists always displays zero  even if the map has contents,Usability,Capability,Reliability,Capability,Requirements
+List display does not allow selection of node transclusion tooltip,Usability,Capability,Usability,Usability,Usability
+Icon Image > Specify Size > Maintain image ratio? - Update fields.,Usability,Usability,Requirements,Capability,Usability
+Image rollover prevents access to node's text and transclusion indicator,Usability,Usability,Usability,Usability,Usability
+SQL backup is still introducing 'escape' characters in text,Capability,Capability,Usability,Capability,Capability
+Internal refernence nodes should mirror behavior in web exports,Requirements,Requirements,Usability,Usability,Usability
+Icon Set drop-down list selecting the wrong item on the list.,Reliability,Capability,Reliability,Capability,Usability
+Toolbars disappear when repositioning them,Reliability,Capability,Usability,Capability,Usability
+ALT + left click does not select node and all of its child nodes,Usability,Migration,Usability,Capability,Usability
+Allow more text in web map rollover,Requirements,Usability,Usability,Requirements,Usability
+Old keyboard shortcuts are still in the code and should be exorcised,Migration,Usability,Usability,Migration,Migration
+according the scale of the background image with the scale of the maps,Usability,Requirements,Usability,Usability,Usability
+Support .opml filetype,Requirements,Requirements,Migration,Requirements,Requirements
+Restoring from SQL does not escape newline character,Migration,Capability,Usability,Capability,Capability
+Aerial View does not maintain relative node positions on an image,Usability,Usability,Usability,Usability,Usability
+Database is messed up when importing from Backup SQL file using the Restore T...,Migration,Capability,Migration,Capability,Migration
+Javascript no longer works when displaying exported Web Maps in Firefox 3,Migration,Capability,Migration,Migration,Migration
+Newly-created tags not visible in tags dropdown,Usability,Capability,Usability,Usability,Usability
+Search considers only the first detail page,Usability,Capability,Usability,Capability,Usability
+change type to... > list to map,Usability,Capability,Reliability,Capability,Capability
+XML export freezes when exporting multiple maps with translcuded links,Migration,Capability,Reliability,Reliability,Reliability
+Send button of C-mail dialog does nothing,Reliability,Capability,Reliability,Capability,Capability
+Deleting Projects from MySQL db doesn't work,Reliability,Capability,Reliability,Capability,Capability
+"""Send Node to Inbox of ..."" Option does nothing when you click Send",Reliability,Capability,Reliability,Capability,Capability
+Unset Show small icons,Usability,Capability,Reliability,Capability,Capability
+Learning design node icons not shown in List views,Usability,Capability,Reliability,Usability,Usability
+Wont run in 10.7.4,Installability,Installability,Reliability,Installability,Installability
+CompendiumLD won't start,Installability,Installability,Installability,Installability,Installability
+Broken download link.,Installability,Documentation,Installability,Installability,Installability
+V1.2 won't launch,Installability,Installability,Installability,Installability,Installability
+CompendiumLD hangs at startup,Installability,Installability,Reliability,Installability,Installability
+Frozen Startup in Mac OSX Mavericks,Installability,Installability,Reliability,Installability,Reliability
+version 1.2 won't launch,Installability,Migration,Installability,Installability,Installability
+Unread view treats transclusions as separate maps,Usability,Capability,Reliability,Usability,Usability
+Streamlining tag selection from toolbar dropdown,Requirements,Usability,Usability,Requirements,Requirements
+Tag and note labels on nodes vanish after 1.5 update,Migration,Migration,Reliability,Migration,Migration
+"""Â§"" cannot be used in node names",Usability,Requirements,Requirements,Capability,Capability
+Store icon size per map,Usability,Usability,Requirements,Usability,Usability
+Customisable Node Types,Usability,Requirements,Requirements,Requirements,Usability
+Arrange Bug,Usability,Capability,Reliability,Capability,Capability
+"""There appears to already be an instance of Compendium running.""",Reliability,Capability,Reliability,Reliability,Reliability
+Cannot save an edit to a user profile.,Reliability,Capability,Usability,Capability,Capability
+Restoring a backup breaks internal reference nodes,Migration,Capability,Usability,Capability,Capability
+Right-click menu options to display tags and views,Usability,Usability,Usability,Requirements,Requirements
+Option to apply a view's node formatting to all descendents,Usability,Usability,Usability,Usability,Usability
+setting node date to year before 1995,Usability,Requirements,Usability,Usability,Usability
+Cannot set a user-entered wrap width. It only works with the ones in the menu.,Usability,Usability,Usability,Capability,Usability
+Cannot set a user-entered font size. It only works with the ones in the menu.,Usability,Usability,Usability,Capability,Usability
+url Reference starting with www  do not get http:// prepended when exporting ...,Migration,Capability,Usability,Usability,Usability
+Ability to automatically unzip zipped sql backup w/reference files  images  ...,Requirements,Requirements,Usability,Requirements,Requirements
+Clicking a node in a map should ihghlight that node in the Outline view  if open,Usability,Usability,Usability,Usability,Usability
+You should not be able to create a duplicate tag,Usability,Integrity/Security,Requirements,Usability,Usability
+AutoWiki,Requirements,Requirements,Requirements,Requirements,Requirements
+Upgraded nodes lose their text asterisk,Migration,Usability,Usability,Migration,Migration
+'www' icon in Default does not have correct Shortcut icon,Usability,Usability,Usability,Usability,Usability
+"Installation failure: ""Could not find the main class. Program will exit.""",Installability,Installability,Installability,Installability,Installability
+Spurious message about toolbars.xml,Reliability,Reliability,Reliability,Reliability,Reliability
+cut causes an error,Reliability,Capability,Reliability,Reliability,Reliability
+Be able to specify the size to display user assigned node images.,Usability,Requirements,Usability,Requirements,Usability
+menus appear on wrong monitor/screen  when used on multi-monitor computers,Usability,Usability,Usability,Usability,Usability
+Link label text does not zoom,Usability,Capability,Usability,Capability,Usability
+Make 'set as default project' available in the Project Management dialog,Usability,Usability,Usability,Usability,Usability
+Text paste doesn't seem to work with Motif look and feel on Mac,Migration,Usability,Usability,Capability,Capability
+Have wider node label settings than 50 characters,Usability,Usability,Usability,Usability,Usability
+hostname management of linux systems,Reliability,Capability,Migration,Reliability,Reliability
+Link labels should have the asme formatting options as Node labes,Usability,Usability,Usability,Usability,Installability
+Label position -- top/left/right/bottom/center,Usability,Usability,Usability,Requirements,Usability
+stencil side pane doesn't close if mutiple stencil sets were opened at once,Reliability,Usability,Usability,Capability,Capability
+Delete all transclusion of a node,Requirements,Requirements,Requirements,Requirements,Requirements
+Import option on Node right-click menu should give same options as Import opt...,Usability,Usability,Usability,Usability,Usability
+Tile view windows,Requirements,Requirements,Usability,Requirements,Requirements
+Multiple sets of settings for HTML format,Requirements,Requirements,Usability,Requirements,Requirements
+Clean up formatting on right-click menu,Requirements,Usability,Usability,Usability,Usability
+Choosing Tools...User Preferences...Map and Rollover changed the Icon Set!,Reliability,Capability,Usability,Capability,Capability
+"Choosing ""Search Google"" from a Map label opened the wrong dialog",Reliability,Capability,Usability,Capability,Usability
+New error message from export,Migration,Capability,Migration,Reliability,Usability
+I want to know on inspecting a map which codes are being used on which nodes,Requirements,Usability,Usability,Usability,Requirements
+Curvy link lines,Requirements,Requirements,Usability,Requirements,Requirements
+Could not find the main class. Program will exit!,Installability,Installability,Usability,Installability,Installability
+Outline Export Broken,Migration,Migration,Migration,Reliability,Reliability
+"Search results in ""column '10' not found",Reliability,Migration,Usability,Capability,Usability
+Slow closing of node contents dialog using OK button even if nothing changed,Performance,Performance,Usability,Performance,Performance
+Node moves without touching at 75% view,Usability,Capability,Usability,Usability,Usability
+Node label changes don't show in Working Tags Area,Usability,Capability,Usability,Usability,Usability
+Editing stencil icon image does doesn't change new node icons,Usability,Capability,Usability,Usability,Usability
+Node Transclusion Indicator - Wide tooltip in narrow window,Usability,Usability,Usability,Usability,Usability
+Column '10' not found in search,Reliability,Capability,Usability,Reliability,Reliability
+Highlight all nodes in the selected view which are found in a tag search.,Usability,Requirements,Capability,Usability,Usability
+Stencils settings not remembered,Usability,Usability,Usability,Usability,Usability
+Change to History toolbar when navigating using Views,Usability,Requirements,Usability,Capability,Usability
+small icons behavior is inconsistent,Usability,Capability,Usability,Usability,Usability
+nodes don't stay in original position,Usability,Capability,Usability,Capability,Usability
+search only works on 'all views' context setting,Reliability,Usability,Usability,Reliability,Reliability
+"Compendium license - Meaning of ""non commercial use""",Documentation,Documentation,Documentation,Documentation,Documentation
+New tags mis-formatted on list,Usability,Usability,Usability,Capability,Usability
+passwords less than five characters allowed,Integrity/Security,Integrity/Security,Integrity/Security,Integrity/Security,Integrity/Security
+non-administrators have administrator privileges,Integrity/Security,Integrity/Security,Integrity/Security,Integrity/Security,Integrity/Security
+users can delete themselves,Integrity/Security,Integrity/Security,Integrity/Security,Integrity/Security,Integrity/Security
+users created later cannot view pre-existing database,Reliability,Capability,Usability,Capability,Usability
+tags in tag view  pull down menu don't stay in sync,Usability,Capability,Usability,Capability,Usability
+Deleting or Cutting a node leaves it in the old view - PRECISE CONDITIONS,Reliability,Capability,Usability,Capability,Capability
+Will not move or delete nodes that have multiple copies - a cause?,Reliability,Capability,Usability,Capability,Capability
+Cannot move or delete nodes with multiple copies,Reliability,Capability,Usability,Capability,Capability
+1) Nodes dont cut/delete properly NOW and 2) in 1.5.1 they are very very SLOW...,Reliability,Migration,Usability,Performance,Performance
+Double paste occurs if Drag&Drop followed by mouse click,Usability,Capability,Usability,Usability,Usability
+Using compendium and MySQL locally,Installability,Installability,Installability,Installability,Installability
+Windows menu displays only three open windows,Usability,Requirements,Usability,Usability,Usability
+Installation problem,Installability,Installability,Installability,Installability,Installability
+Typo in ReadMe in distribution .dmg file  problems with bug reporting,Documentation,Usability,Documentation,Documentation,Documentation
+Quick Start Movie should SAY where it plays,Usability,Usability,Installability,Usability,Usability
+Allow multiple name selections for Send to Inbox Of,Requirements,Usability,Usability,Requirements,Requirements
+Deleted nodes show up in search results,Reliability,Capability,Usability,Capability,Capability
+Most of the maps in my home window report being in the home window twice,Usability,Capability,Capability,Capability,Capability
+Views jump from Tags View leaves permanent display trash,Usability,Requirements,Usability,Usability,Usability
+XML import from Atlas Problem,Migration,Capability,Migration,Capability,Capability
+Icon field in List node's Contents window not formatted correctly,Usability,Usability,Usability,Usability,Usability
+Images assigned as node icons not displayed correctly,Usability,Capability,Usability,Capability,Capability
+Replacing a node's icon image results in distorted image.,Usability,Capability,Usability,Capability,Capability
+Sometimes tag labels mis-align,Usability,Usability,Usability,Usability,Usability
+Groupwear Refresh Timer runs even if on Derby,Capability,Capability,Usability,Capability,Capability
+Project creation,Reliability,Usability,Installability,Installability,Usability
+excercise 6,Documentation,Documentation,Usability,Documentation,Documentation
+Node detail asterisk removed when cutting and pasting maps to sub-maps,Reliability,Capability,Usability,Capability,Usability
+Closing Tag View does not clear Working Area rollover hints,Usability,Capability,Usability,Usability,Usability
+Duplicate inbox,Reliability,Capability,Usability,Capability,Usability
+"Where should I find the ""Current Log File""",Documentation,Documentation,Usability,Documentation,Documentation
+Export to WEB Map does not include stencils for the list node,Migration,Capability,Usability,Usability,Usability
+Could not start!,Installability,Installability,Installability,Installability,Installability
+How about multi-byte character code as Japanese?,Usability,Usability,Requirements,Usability,Usability
+Support for Fonts,Usability,Usability,Requirements,Usability,Usability
+Compendium 1.5.2 - Linking issues with Tablet PC,Migration,Usability,Migration,Capability,Migration
+Readers feature lists one user under another user's name,Reliability,Integrity/Security,Usability,Integrity/Security,Integrity/Security
+Improved group support,Requirements,Capability,Usability,Requirements,Requirements
+Unable to create MySQL Connection,Installability,Installability,Migration,Installability,Installability
+Can't hit Enter/Return to open a new node after typing its label,Usability,Usability,Usability,Usability,Usability
+Keyboard shortcuts to create new nodes,Usability,Usability,Usability,Usability,Usability
+Cannot access a map,Reliability,Capability,Usability,Reliability,Reliability
+Change the tags - node icon indicator list (alphabetic order),Usability,Usability,Usability,Usability,Usability
+Exporting Web maps,Migration,Usability,Migration,Capability,Migration
+Ctrl+Shift+Left in node label does wrong selection,Usability,Capability,Usability,Capability,Usability
+A few issues with Help files: Node Label Preferences/Project Options/General ...,Reliability,Usability,Documentation,Reliability,Reliability
+"System locks up - when printing ""Tools Menu""",Reliability,Performance,Usability,Reliability,Reliability
+Dotted line links for cross-links,Usability,Usability,Requirements,Usability,Usability
+Adjustable link line label placement,Usability,Usability,Usability,Usability,Usability
+When adding images/icons to nodes  Compendium should automatically browse the...,Usability,Usability,Usability,Usability,Usability
+Colour Palette,Usability,Usability,Usability,Usability,Usability
+How does Compendium work with Leopard?,Documentation,Documentation,Migration,Documentation,Documentation
+Compendium Database,Installability,Installability,Installability,Installability,Installability
+Loss off links when selecting a node from the auto-search list after having c...,Reliability,Capability,Usability,Capability,Usability
+MySQL New project creation problem,Installability,Installability,Installability,Installability,Installability
+cannot get product started,Installability,Installability,Installability,Installability,Installability
+Simple export and import of compendium files,Migration,Documentation,Migration,Migration,Migration
+tag names in tag view misaligned when tagged > 10,Usability,Usability,Migration,Usability,Usability
+Installation Problems,Integrity/Security,Installability,Installability,Installability,Installability
+Running in Ubuntu 7.10,Installability,Installability,Installability,Installability,Installability
+can't open,Installability,Installability,Installability,Installability,Installability
+Download Failure,Installability,Installability,Installability,Installability,Installability
+Remote MySQL for collaboration Issue - Project Table does not exist.,Reliability,Capability,Reliability,Reliability,Reliability
+Porojects don't open in ubuntu Hardy AMD64,Installability,Installability,Installability,Installability,Installability
+Export of multiple pages in Maps,Migration,Usability,Usability,Usability,Usability
+HTML Export problem when using FireFox 3.0,Migration,Capability,Migration,Migration,Migration
+Speel checker with autocorrect,Requirements,Usability,Usability,Usability,Requirements
+All data in map node disappeared,Requirements,Integrity/Security,Usability,Reliability,Reliability
+Scribble pad clears when connected to remote database due to refresh loop,Reliability,Usability,Usability,Usability,Usability
+Optimize the web outline export for use with Word template,Migration,Requirements,Migration,Requirements,Requirements
+Web Maps export options to remove details popups where only the node anchor a...,Migration,Requirements,Requirements,Requirements,Requirements
+Web Maps export options to exclude node details popups altogether,Migration,Requirements,Requirements,Requirements,Requirements
+Alt+Shift+Right in node label does not work for selecting text,Usability,Capability,Usability,Usability,Usability
+Could we have a portable version of Compendium?,Requirements,Installability,Usability,Requirements,Requirements
+How to save,Documentation,Documentation,Usability,Documentation,Documentation
+Can't use launch button on Contents dialog for internal Reference nodes in an...,Reliability,Requirements,Usability,Reliability,Capability
+contents/properties/views window resizes back to a default size at any change...,Usability,Usability,Usability,Usability,Usability
+XML export to zip: reference file paths not correctly renamed if the same res...,Migration,Capability,Usability,Capability,Capability
+Node background color gets lost during backup restore process,Usability,Integrity/Security,Usability,Usability,Usability
+Back Arrow on Toolbar locks up Compendium,Reliability,Capability,Usability,Reliability,Reliability
+How do I create new maps in my project?,Documentation,Documentation,Usability,Documentation,Documentation
+Wrong link colour using Alt - and Alt+,Usability,Capability,Usability,Usability,Usability
+./compendium.sh ...NoClassDefFoundError java/lang/System,Installability,Installability,Installability,Installability,Installability
+Select multiple nodes and clone,Usability,Usability,Usability,Usability,Usability
+Troubles wth cursor positioning in node labels,Usability,Usability,Usability,Usability,Usability
+LaTeX Support,Requirements,Requirements,Migration,Requirements,Requirements
+MAP NODE NOT RESPONDING,Reliability,Capability,Usability,Reliability,Reliability
+List Node Header Spacing is not Remembered,Usability,Usability,Usability,Usability,Usability
+Troubles wth cursor positioning in node labels,Usability,Usability,Usability,Usability,Usability
+Add an 'Open' Button to the Search Reulsts Dialog,Requirements,Usability,Usability,Requirements,Requirements
+Add node timespans to XML export / import,Requirements,Usability,Usability,Requirements,Requirements
+Add timespans to backup / restore,Requirements,Integrity/Security,Usability,Requirements,Requirements
+Right-click node timeline to view timespan properties,Usability,Usability,Usability,Usability,Usability
+Double-click blank are of node timeline to create new 5 second timespan,Performance,Usability,Usability,Performance,Performance
+add control areas to start and end of node timline timspan,Usability,Usability,Usability,Usability,Usability
+Click in timespan on node timeline jumps movie to start of that span,Usability,Usability,Usability,Usability,Usability
+Click anywhere on node timeline highlights the node on map (if it is currentl...,Usability,Usability,Usability,Usability,Usability
+Fast node linking using arrow icons on node,Requirements,Usability,Usability,Usability,Usability
+New node icon for MovieMap nodes,Requirements,Requirements,Usability,Requirements,Requirements
+Clickin on node in map will highlight timeline,Usability,Usability,Requirements,Usability,Usability
+Error message on trying to download Compendium,Installability,Installability,Installability,Installability,Usability
+Unable to backup database,Reliability,Capability,Reliability,Reliability,Reliability
+deleted nodes persist in MySQL,Capability,Capability,Capability,Capability,Capability
+map (corrupted?) hangs Compendium,Reliability,Reliability,Usability,Reliability,Reliability
+Spurious message about toolbars.xml,Capability,Reliability,Usability,Capability,Reliability
+Closing project disables menu shortcuts,Usability,Usability,Usability,Usability,Requirements
+Send to Jabber enabled when no project is open,Capability,Capability,Usability,Capability,Reliability
+drag and drop externs files doesn't work on linux version,Capability,Capability,Migration,Capability,Migration
+Crashes - Java runtime error,Installability,Installability,Installability,Installability,Installability
+"""Table 'compendium.project' doesen't exist"" after Creating a Project in MySQL...",Installability,Installability,Migration,Installability,Installability
+error at start-up,Installability,Installability,Installability,Installability,Installability
+instalation problem,Installability,Installability,Installability,Installability,Installability
+Can't run download of Compenium 1.5.3 alpha,Installability,Installability,Installability,Installability,Installability
+starting problem on Ubuntu,Installability,Installability,Installability,Installability,Installability
+Floating tooltip misplaced under Firefox,Usability,Usability,Migration,Capability,Usability
+Ability to specify a default map background,Requirements,Requirements,Requirements,Requirements,Requirements
+Unable to connect to Database on Ubuntu 64 bit,Reliability,Installability,Usability,Reliability,Reliability
+Auto-detect if newer version of Compendium available for download,Requirements,Usability,Requirements,Requirements,Requirements
+Negative yposition-values when importing from Excel,Migration,Capability,Usability,Capability,Capability
+Single user tab - highlight Save button automatically,Requirements,Usability,Usability,Usability,Usability
+"Site ""compendiuminstitute.org"" defaced ?",Documentation,Integrity/Security,Usability,Documentation,Documentation
+Application not launching.,Installability,Installability,Installability,Installability,Installability
+Copendium does not start,Installability,Installability,Installability,Installability,Installability
+toolbars.xml error on Vista 64-bit,Installability,Installability,Installability,Installability,Installability
+Make space with drag box alt goes wrong when zoomed,Capability,Capability,Capability,Usability,Usability
+Aerial View Delete-Undo Bug,Capability,Capability,Capability,Capability,Capability
+Compendium installed but will not open,Installability,Installability,Installability,Installability,Installability
+Java Class load Proroblem,Installability,Installability,Installability,Installability,Installability
+Line Formatting in Links,Usability,Usability,Usability,Requirements,Usability
+Free Text (with RTF formatting) in map background,Requirements,Usability,Usability,Usability,Usability
+Compendium will not open,Installability,Installability,Installability,Installability,Installability
+Compendium 1.5.3 a5 generates inaccessible projects on openSUSE 11.2 64-bit L...,Installability,Capability,Installability,Capability,Installability
+wont run in windows 7,Installability,Installability,Migration,Installability,Installability
+Installation on Ubuntu 9.10,Installability,Installability,Installability,Installability,Installability
+1.5.3 Alpha 5 does not load,Installability,Installability,Installability,Installability,Installability
+Install package failed to download correctly.,Installability,Installability,Installability,Installability,Installability
+Question regarding the licence,Documentation,Documentation,Documentation,Documentation,Documentation
+Javaw not found,Installability,Installability,Installability,Installability,Installability
+Find-as-you-type no longer appears to work when creating new nodes,Usability,Usability,Usability,Usability,Usability
+Exception when opening a new map,Capability,Capability,Usability,Capability,Reliability
+Search updates into lists,Requirements,Requirements,Usability,Requirements,Requirements
+Maps not saving in Linux Ubuntu,Capability,Capability,Usability,Capability,Reliability
+Compendium Update Checker,Capability,Usability,Usability,Requirements,Requirements
+Download doesn't start,Installability,Capability,Installability,Installability,Installability
+Deleting nodes based on stencils does not place them in the trash can,Capability,Usability,Usability,Usability,Usability
+Export - Power Export - does not work,Capability,Capability,Migration,Capability,Capability
+"Compendium window has set attribute ""always on top""",Usability,Usability,Usability,Usability,Usability
+Hotkeys for zooming,Usability,Requirements,Usability,Usability,Usability
+Circular / radial arrange option,Requirements,Requirements,Usability,Usability,Requirements
+How to move Derby DB location?,Installability,Documentation,Usability,Documentation,Documentation
+Main window always on top,Usability,Usability,Usability,Usability,Usability
+HTML Export missing images if loaded in Word,Capability,Capability,Migration,Capability,Capability
+Font changes in outline view but not in existing View,Capability,Usability,Usability,Capability,Capability
+Windows 7 64 bit - Can't find Javaw,Installability,Installability,Installability,Installability,Installability
+Downloading - set-up,Installability,Installability,Installability,Installability,Installability
+Login to a project by double click on the project name,Usability,Usability,Usability,Usability,Usability
+Error when creating and opening new map in old MySQL project,Migration,Capability,Migration,Migration,Migration
+Installation problem  Compendium and Windows 7,Installability,Capability,Installability,Installability,Installability
+how to set default link type,Usability,Documentation,Usability,Usability,Usability
+Compendium fails to create schema once connected to MYSQL,Installability,Capability,Installability,Installability,Installability

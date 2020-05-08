@@ -17,7 +17,9 @@ How to:
 
 2. Follow the instructions for setting up an Azure Machine Learning Workspace from here: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-manage-workspace 
 
-3. Create a dataset through the AML Workspace UI by uploading the csvfile you find in the data folder of the repo. Call your dataset "SecBugDataset".
+3. Create a dataset through the AML Workspace UI by uploading the csvfile you find in the data folder of the repo. Call your dataset "SecBugDataset". 
+![Create dataset in AML step 1]()
+
 
 4. Instructions on how to set up to run on your local computer can be found here: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-environment#local. Perform all the steps up until the section "Visual Studio Code". If, at any time during the execution of the notebook the system complains that you have incompatible versions of pyarrow and pandas, add this to one of the notebook cells and execute:
 !pip install azureml-dataprep[pandas] .

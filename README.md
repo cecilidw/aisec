@@ -18,10 +18,22 @@ How to:
 2. Follow the instructions for setting up an Azure Machine Learning Workspace from here: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-manage-workspace 
 
 3. Create a dataset through the AML Workspace UI by uploading the csvfile you find in the data folder of the repo. Call your dataset "SecBugDataset". 
-![Create dataset in AML step 1]()
+  * Choose "create dataset from local files"
+  ![Create dataset from local file](docs/images/createdataset0.jpg)
+  * Give your dataset a name, "SecBugDataset"
+  ![Give your data set a name](docs/images/createdataset1.jpg)
+  * Choose "previously created datastore" and "workspaceblobstore". This is the default storage that was created with your workspace.
+  ![Give your data set a name](docs/images/createdataset2.jpg)
+  * Choose "all files have same headers" in the Column headers dropdown menu
+  ![Give your data set a name](docs/images/createdataset3.jpg)
+  * Go with the default settings and click next
+  ![Give your data set a name](docs/images/createdataset4.jpg)
+  * Click Create
+  ![Give your data set a name](docs/images/createdataset5.jpg)
 
 
-4. Instructions on how to set up to run on your local computer can be found here: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-environment#local. Perform all the steps up until the section "Visual Studio Code". If, at any time during the execution of the notebook the system complains that you have incompatible versions of pyarrow and pandas, add this to one of the notebook cells and execute:
+4. Instructions on how to set up to run on your local computer can be found here: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-environment#local. When you get to the step where you will start Jupyter by the command "jupyter notebook", make sure you have navigated to the folder you cloned/downloaded in step 1. Perform all the steps up until the section "Visual Studio Code". If, at any time during the execution of the notebook the system complains that you have incompatible versions of pyarrow and pandas, add this to one of the notebook cells and execute:
 !pip install azureml-dataprep[pandas] .
 
-5. Now you are ready to run through the notebook with the example, from Jupyter on your local machine: 
+5. Now you are ready to run through the notebook with the example, from Jupyter on your local machine. If you've followed the instructions in step 4 you should be able to open the AISec Tutorial notebook by clicking on it:
+![Give your data set a name](docs/images/runTutorialFromJupyter.jpg)

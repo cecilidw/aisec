@@ -16,7 +16,7 @@ from sklearn.externals import joblib
 run = Run.get_context()
 
 # get input dataset by name
-dataset = run.input_datasets['secBugDataset']
+dataset = run.input_datasets['SecBugDataset']
 
 df = dataset.to_pandas_dataframe()
 

@@ -18,7 +18,7 @@ We will be using the bug label "Integrity/Security " to represent the security l
 
 1. Clone or download [this repository](https://github.com/cecilidw/aisec) - this way you'll have the assets available to run locally. You will need at least "AISec Tutorial.ipynb" locally
 2. Follow the instructions for setting up an Azure Machine Learning Workspace from [MS documentation](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-manage-workspace). You will create Machine Learning resources in your Azure subscription 
-3. Then the Azure Machine Learning environment is ready navigate to your resources and open Azure Machine Learning UI by clicking `Experiments -> Launch the studio (Preview)`. Now you will create dataset through this interface by uploading "secBugData.csv" located in "data" folder of cloned repository. Give a name "SecBugDataser" for your dataset. To do this follow these steps:
+3. Then the Azure Machine Learning environment is ready navigate to your resources and open Azure Machine Learning UI by clicking `Try the new Azure Machine Learning studio -> Launch now` under `Overview`. Now you will create dataset through this interface by uploading "secBugData.csv" located in "data" folder of cloned repository. Give a name "SecBugDataser" for your dataset. To do this follow these steps:
      * Choose `Create dataset -> from local files` under `Assets -> Datasets` menu on the left side
      ![Create dataset from local file](docs/images/createdataset0.jpg)
      * Give your dataset a name, "SecBugDataset" and leave other fields defaults. Press `Next`

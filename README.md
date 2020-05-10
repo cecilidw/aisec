@@ -1,7 +1,6 @@
 # AiSec
 
 ## Overview
----
 
 The inspiration for this example comes from a recent publication from Microsoft, "Secure the software development lifecycle with machine learning":
 https://www.microsoft.com/security/blog/2020/04/16/secure-software-development-lifecycle-machine-learning/  
@@ -16,7 +15,6 @@ We will be using the bug label "Integrity/Security " to represent the security l
 
 
 ## How to guideline
----
 
 1. Clone or download [this repository](https://github.com/cecilidw/aisec) - this way you'll have the assets available to run locally. You will need at least "AISec Tutorial.ipynb" locally
 2. Follow the instructions for setting up an Azure Machine Learning Workspace from [MS documentation](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-manage-workspace). You will create Machine Learning resources in your Azure subscription 
@@ -48,7 +46,6 @@ We will be using the bug label "Integrity/Security " to represent the security l
 2. Add **Step 7** how to create model and get the endpoint URL to use for security actions
 
 ## Useful links and presentation for AiSec example
----
 
 ### [TODO]
 1. Add links to useful materials and setup guidelines from this example

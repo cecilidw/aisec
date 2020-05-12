@@ -21,9 +21,9 @@ dataset = run.input_datasets['SecBugDataset']
 df = dataset.to_pandas_dataframe()
 
 
-# create column used as target, experiment with different labelers
+# create column used as target
 
-df['Label'] = [1 if x =='Integrity/Security' else 0 for x in df['L1']]
+df['Label'] = [1 if x =='Integrity/Security' else 0 for x in df['L2']]
 
 # do the vectorization - tf-idf
 

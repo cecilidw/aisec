@@ -1,0 +1,963 @@
+﻿summary,Label L2
+Drag and drop of learning design zip file not working,0
+Error Launching Compendium LD after install,0
+Multiple column Arrange for map of unlinked nodes.,0
+Facility to assign node icon sets on a per map basis,0
+Spell Checker,0
+Periodically: clicking on a link does not allow one to add a link label,0
+Need progress bar when inserting large search results into a map or list,0
+A little note about the Mac equivalent to right-click which is used to connec...,0
+"""Put in view"" -- select node(s)  get pick list of views to",0
+Can small icons work with images also? Make small images?,0
+Text find/replace,0
+Label left/right/center alignment node-specific formatting option,0
+Blank lines (newlines) in labels not showing on Map,0
+Group nodes for the purpose of Align,0
+Have node image rollover settings be node-specific,0
+Drag Maps between projects,0
+Annotation layer,0
+Shortcut to create lists of nodes,0
+Other tree views apart from Node,0
+Modification to Export dialogs for full depth availability,0
+Visual feedback on pressing Scribble save button,0
+Give print option to turn off printing background image or colour.,0
+prioritize or rank nodes,0
+Drag and drop a url into a map then click in the map (not on the new node)  a...,0
+Icon Library,0
+"Have a ""no background"" option for node labels",0
+Formatting nodes to reflect action / occurrence,0
+Text Inside of Stencils,0
+URL links could use favicon.ico by default,0
+Tablet PC Support,0
+Ability to populate many reference node images/references in one go,0
+Keyboard shortcut for toggling image rollover on and off,0
+Make the Web Maps tooltips optional,0
+Link label positioning needs to be more flexible.,0
+Image rollover -- be able to scroll large images,0
+Improved support for turning a node (with subtree) into a map node that conta...,0
+smartboard,0
+Text analyzer,0
+Excel integration,0
+Visio integration,0
+Windows Office integration,0
+AutoWiki,0
+Mighty Mouse wheel scrolls up and down but not right/left,0
+Content focus lost when switching applications,0
+Bug when pasting to new Activity map using MySql,0
+Scaling view disturbs alignment of nodes which have been aligned to centre (o...,0
+more verbose message for error message on start if database could not be started,0
+HTML Outline export order,0
+Change search dialog date fields to use drop-down boxes,0
+Ability to search on Link labels,0
+Search toolbar with google style quick search for key word/s,0
+Problem with node labels drawing one line too far down with hightlighting ove...,0
+Can't quit Compendium,0
+Label Text on right of node - label positioning options,0
+Search across databases,0
+show max info on shared display,0
+Slow performance pasting multiple map nodes,0
+Change the way link arrows are drawn for drag and drop,0
+Undo for label color change.,0
+Ability to easily add custom headers and footers (as Includes?) to all HTML e...,0
+Create an node align / arrange toolbar,0
+Slider features controlling view history of maps,0
+HTML launching images code,0
+Dropping Stencil icon on another node should change icon image to stencil image.,0
+Docking map windows,0
+Ability to set the default project from the Project Management Dialog.,0
+Ability to open a Project from the Project Management Dialog,0
+Preseve node selection after right-click menu actions,0
+More options when pasting a node into a view it is already in.,0
+In the Search dialog  it would be good to have a text listing of the search c...,0
+Option in Web Export to not show page dates in the details window,0
+The ability to export to a file format that is importable by Excel 2000.,0
+Search should preserve your original values between goes,0
+Reference nodes that use images could have a link indicator,0
+Importing outlines,0
+You cut or copy a node and it won't paste,0
+Be able to drag an image from a folder into any node to make it an image-node,0
+Have hourglass or other indicator when first opening Login to a Project dialogue,0
+Produce reports via a number of options for example Open Office  MS > Word  A...,0
+Mac kb shortcuts,0
+Show/hide links,0
+Mix and match exports,0
+Rulers,0
+Allow Web Export (Outline & Maps) to export non-view nodes,0
+The print dialogue does not remember settings,0
+Export of tags list (in outline format),0
+Restore of project adds \n to Note node details,0
+File browser does not allow thumbnails view,0
+Help search index lists results twice,0
+broken interface element language references,0
+When pasting (embedding) a node into a large view  it needs to be in the visi...,0
+Failerd to open new activity node when using remote MySQL db,0
+Compendium LD won't launch,0
+Make label-matching feature non case-sensitive,0
+Snap-to-Grid,0
+Opening concurrent multiple Derby databases,0
+Ability to set a preference for which node type gets created on text drag and...,0
+Aerial view on map right-click menu,0
+Saving complex searches in xml file,0
+Select one or more nodes and convert to copyable text,0
+Prcocess drag and drop text for node types,0
+Save reference info when changing node type from reference to something else.,0
+Drag nodes bewteen views,0
+print lists with row numbers,0
+Add alt/ctrl/shift+arrow keys for quick linking,0
+Deleting a node from all views at once,0
+Configurable ouput order in HTML Outline export.,0
+Write a Word-friendly XHTML export,0
+Ability to reorder stencil set items,0
+Deep copy as clone,0
+Deep copy as shortcuts,0
+Hot key to open a Map's Contents,0
+Improved export to Word,0
+Give users the ability to assign keyboard shortcuts on their own to certain o...,0
+More Reporting options,0
+Many more undo options,0
+It would be nice if XML import was a little smarter in its handling of overwr...,0
+Touch Graph View,0
+Improve display scrolling when dragging against edges of map,0
+multiple row drag in lists - show positioning when dragged,0
+After paste into list  view should scroll to location of pasted node and re-sort,0
+Send To command,0
+Enhancement: Option to toggle off inclusion of Reference node link informatio...,0
+"Extend ""Transclude to New Map""",0
+Full path reference node in html exports,0
+Speed up XML imports,0
+Boxed nodes,0
+Multiple improvements supporting formatting for web exports and linking,0
+Allow partial bold  italic  underline in node labels,0
+Box around labels,0
+"""Map include"" capability",0
+Improvements to web map export - no TOC and friendly URLs,0
+Scribble enhancements,0
+Underline for node labels,0
+Allow search on 'extra' Map and Reference Node fields (e.g.  Ref  Icon Image ...,0
+print options and email,0
+mindmap view,0
+Pre-made backgrounds,0
+Outline and grid views (as view types),0
+Accents in search function,0
+Print could use a fit to page option,0
+print to a poster-printer,0
+GLOBAL: Printing Issues Master,0
+Paste Special,0
+Image size gets changed for all transclusions  not just current map,0
+How to Change Project Directory,0
+Deleting linked stencils does not remove links (NULL errors); most functions ...,0
+Creating new projects with blank MySQL database doesn't work,0
+Compendium freezes at the click of any icon.,0
+Download Problems,0
+Error on deleting nodes created from import of XML file,0
+Timing info for a task node is clipped if the task label string is short,0
+Dragging and dropping on linux needs further testing,0
+Error on HTML export,0
+Conversion from MySql to Derby database,0
+Learnuing output: summative icon not output in SVG,0
+Copying and pasting an internal reference node from one map to another does n...,0
+setting up compendiem,0
+"""Reading"" node by viewing node contents via node's text indicator tooltip",0
+Internal ref node doesn't go away from Unread view,0
+<Title> tags for web exports,0
+duplication of contents of nodes on export,0
+GLOBAL: Advance Search Interface / Simple Search Interface,0
+Word-friendly export that isn't an outline,0
+Simple copy selected node labels to plaintext clipboard,0
+Link label text needs to be included in text exports,0
+Make Mac kb combinations work 'both ways',0
+GLOBAL: Decision making features.,0
+GLOBAL: Word Processing Friendly Exports,0
+GLOBAL: Web Exports,0
+"""Home Window"" labels need to actually have the user names as part of their da...",0
+Reverse link,0
+Add count of views and nodes exported to export completed dialogs,0
+Addional syntax for Jabber messages / nodes detail interpretation,0
+After opening a view from the Views tab  the node window should close,0
+Unique URLs for nodes in the new JPG export,0
+Copy both label/detail text to system clipboard in one go,0
+Delete key on link label box should allow delete of link with prompt if no text,0
+DnD label options - preference,0
+Enhancement: Global preference for arrowhead styles,0
+Export selected nodes on HTML outline,0
+Formatting detail font size,0
+Hand icon for right-drag movement,0
+Currently active Tag group in Search,0
+Increase row height of lists,0
+Link from one node to a bunch of selected nodes,0
+Optional page info detail on HTML Views Detail view,0
+Links start from center,0
+Mini search for list labels within a list view,0
+Paste text into view should create new node,0
+Make Find a Map/List floating or persistent,0
+Tag assignment speed issues,0
+Upping the HTML outline indent level from 6,0
+When switching views  any nodes that are selected are highlighted (with a bor...,0
+"Paste from List into Map should be in ""List"" form",0
+Concept Node,0
+Automatic file resize option for dragged-in graphics,0
+Checkbox on export to open containing folder,0
+"Concept of a ""Commons"" map",0
+Drag n Drop node text into nodes,0
+Give the ability to assign kb shortcuts to menu commands (or other actions?),0
+Merge Save As JPEG and HTML Outline,0
+Make favorites for view only - on select  open view,0
+Facility to add new reference node images for given file types,0
+No Passwords (may be resolved now),1
+Node colours and borders,0
+Related Nodes (may be partially resolved with new Internal Ref nodes),0
+Print options for how many pages to use,0
+Scribble pad needs text tool,0
+Collection of Search issues (needs to be reviewed/broken up),0
+Snapshot web page when you Ref it,0
+Speed up cut/paste with images,0
+The dock for making regular transclusions,0
+"Use a Claimaker-style interface for Linking Info (""the Neighborhood"")",0
+Export feature that generates a complete website with contents page,0
+Abandon shortctuts and allow multiple transclusions in a view (?),0
+Addressable Nodes,0
+Arrange -- multiple (needs review),0
+Catalog views,0
+Collapse nodes into one node,0
+Dnd for movie files display first frame as icon image,0
+Drap n Drop between external applications,0
+Expand/collapse branches from selected nodes,0
+Hide all branches except selected node,0
+HTML editing,0
+Image resizing (at least partially resolved in 1.5.1),0
+New undo options,0
+Sound and movie rollover,0
+Tranclusions in the same map,0
+Wheel used for view drag on/off,0
+Nice export ideas from Chuck,0
+Dragging nodes against edges of map should scroll continuously,0
+Preserve label formatting in Outline export,0
+Option to have automatic outline numbering for 'tree' view,0
+Provide a way to create a new node  not linked to current node  but right nex...,0
+Cntrl drag in white space to scroll the canvas,0
+Control +arrows page in direction of arrow,0
+Drag n Drop node link into detail,0
+Drag nodes into Trashbin,0
+Draw arrows so they don't shift when you add new label text,0
+Include links to/from shortcuts to a node in the Linking Info for that node (...,0
+Export multiple JPGs  not just one,0
+File:// in reference nodes,0
+Html export outline and links - option,0
+Hot keys or buttons for moving selected text from Label to Detail and vice versa,0
+Long link line jumps,0
+Reverse two nodes,0
+Set the default paper size,0
+Turn nodes to Tags,0
+Transclude multiple nodes to new map,0
+Turning off Rollovers for some nodes,0
+Update Audio Library,0
+Convert nodes to text details  and v-v,0
+Maintaining label-edit selection when switching applications,0
+2 QuestMap impoprt issues,0
+Any prompt which relates to a Preferences setting has a checkbox to remember ...,0
+Auditing/versioning,0
+Auto linking,0
+Command line url interface,0
+Reference node that opens other Compendium databases,0
+Ctrl Y - repeat last action,0
+LaTeX Support,0
+Submit Compendium to one or more freeware web sites,0
+Tags View > Insert into View - Confusion,0
+MAP NODE NOT RESPONDING,0
+Undo for changing image size,0
+Hourglass for long map open (e.g. with images),0
+Hourglass for image size change,0
+tags and tag groups aren't exported,0
+A number of features I thought would be cool (plus two bugs),0
+The ability to temporarily 'lock' views open,0
+User settable MySQL database prefixes,0
+Issues with using find to pull together nodes with multiple tags,0
+Left-right scrolling,0
+Closing a node should save contents,0
+Backspace should not delete nodes,0
+Tablet PCs and graphics drivers bug,0
+Exporting to an XML file in an off-line directory can cause the file to be co...,0
+There can be problems with permissions and Compendium accessing/creating subf...,0
+Request label to detail auto jump be done at word breaks not character breaks,0
+Suggest naming it Install-Compendium-1.5.2.pkg,0
+Start up problem - movie invisible  welcome maps not apparent,0
+Allow the Inbox feature to be an option. Enable/disable,0
+Warn user that they can't send a node to other users' inboxes from their home...,0
+Email notifications for shared Compendium projects,0
+Unread View should refresh dynamically,0
+Add set as default to project mgmt window,0
+Cannot use trackpad on a powerbook,0
+Pan Map changes,0
+Copy-paste of nodes does not escape newline characters,0
+Is Compendium free software ?,0
+OpenLearn export fails when a map has circular links,0
+Power Export should generate index.html with links to all exports,0
+Full screen mode,0
+Number of nodes in a view object not reflecting the actual number of nodes in...,0
+Support for SQL Server/Oracle as a centralised database,0
+Accelerated creation of user-defined stencil,0
+Once saved are Compendium maps spotlight searchable?,0
+How to uninstall Compendium?,0
+maps not opening and node not linking with arrows,0
+Standalone Version?,0
+Views tags by usage  recency  and by cloud,0
+Typing tags should autocomplete  and not give error,0
+Add Right-click - Select All dependent nodes,0
+Add new node between existing nodes,0
+Runtime error with clicking on icons/dragging icons in map view,0
+Using Enter on map background for easy node creation,0
+"Picasa-style ""star"" button for easy node tagging",0
+Dim Make Tags and Make Groups unless text entered,0
+directly open items in working tags area,0
+copy an openned map,0
+Ability to turn cross-links off/on,0
+Options for link route placement/adjustment,0
+Functionality to join links with other links,0
+Frequency and/or prominence of node content within a map.,0
+Ability to apply a specified size to multiple selected nodes for images or ic...,0
+Indented text export to MS Word and Power Point,0
+A removable frame/window workspace for text document access,0
+When exporting  Compendium should select the last folder exported to within a...,0
+An amalgamation of features from Google style search functionality and treema...,0
+Analysis and Statistical Features,0
+Drop Drag for external applications,0
+I18N - compound characters ignored,0
+wikipedia page for compendium software,0
+MySQL query speed,0
+User option to specify font size of fonts used in Compendium dialog boxes.,0
+Need a volunteer?,0
+Problem with Greek language txt notes,0
+Help in using Compendium in a group working environment,0
+Compendium freezes after clicking on an icon,0
+Command Line access for Export operation,0
+launch application,0
+Paths in Reference nodes are not platform-agnostic,0
+root user for MySQL,0
+Enhance pathways to update Tags,0
+Enhance pathways to update Tags,0
+Enhance pathways to update Tags,0
+Improvements to outline,0
+trouble logging in,0
+Will not QUIT the program when using MySql,0
+This link to download icon sets is dead,0
+Failure to initiate Compendium,0
+Allow node text background to be transparent as well,0
+Leopard update,0
+Add ability to search externally referenced documents from within Compendium,0
+XML Export corrupt on linux,0
+List views should show custom icons for List  Map  and Reference nodes,0
+"Create ""template"" Stencil item",0
+Default the Node Image field to selected node type's image,0
+Clearly indicate required fields in Stencil dialogs,0
+Default buttons in Stencil dialogs,0
+program will not start,0
+List Node Header Spacing is not Remembered,0
+"Following the ""Please Contact Support"" instructions",0
+question about installation,0
+downloading and installing on Mac OS Tiger,0
+Feature Request,0
+Node position info needs rethinking as it is causing problems,0
+XML Export/Import needs to include the node formatting information,0
+Add weight indicator to trashbin icon,0
+Add column sorting on icon indicator columns in list and task tables,0
+Overlaying shortcut icon on node icon image,0
+Template import option to leave nodes as unread rather than make then all read.,0
+dragging tags to move them into a tag group is not working for me,0
+include tags and tag groups in web map exports,0
+Checkbox node or an option to have a checkbox besides the text,0
+Web site download fails,0
+Research feature,0
+Export characteristics,0
+HTML Export Feature,0
+Download page not available,0
+CPU usage spikes when mouse pointer is over a node,0
+How to write the link in the html file,0
+can't download more than one time,0
+I Had a dream...,0
+Tag usage improvement,0
+WebMap has a problem in Firefox with scrolling,0
+Export Function with Update Only,0
+Can't drop and drop nodes,0
+Working with Windows ?,0
+Moving a Map,0
+Tag with large counts covers checkbox,0
+RSS Feed ?,0
+Selecting existing node for ALT-shortcut child deletes parent,0
+Expert system,0
+Without default project can open multiple Open Project dialogs,0
+Locked views,0
+"Ability to enable/disable ""Rearrange"" function on a per-Map basis",0
+downloading problem,0
+Exporting/sharing file with another user,0
+Files written to installation directory,0
+Cannot execute compendium.sh through symlink,0
+Cant create new maps,0
+Cannot remove a project from project management,0
+Clone a Concept,0
+Automatically delete Linked Files,0
+Sort nodes in the outline view,0
+Delays After Clicking a Node,0
+Synchronous shared Compendium over the internet (you see my screen),0
+Auto-complete should display nodes with matching substring in name,0
+Lock node location on the screen,0
+Allow links between nodes in different maps,0
+Prob: Dragging and dropping Excel Worksheet for building nodes structure,0
+Errors in export to HTML Map,0
+Suppress or escape special characters in HTML export,0
+Friendly tooltips on Web Export,0
+Be able to define tags group inside another tags group,0
+Be able to create slides show based on existing maps,0
+locked out of files due to forgotten user name and password,1
+Crash during install on Alpha 5 version in Debian Sid,0
+Implement a scrollabel desktop,0
+Disappearing Stencils,0
+Start-up not operational,0
+unknown string message,0
+reading Derby databaase (1.5.3 version) into version 2.0 : lost the linked di...,0
+Excel drop stops if there is an empty cell within the matrix being processed.=,0
+Snow Leopard,0
+Word-processing-friendly export,0
+Keyboard navigation from node to node,0
+display when sharing using Cisco WebEx Meeting Center,0
+Compendium on Moodle 1.9,0
+Linked files cannot be found,0
+Not able to Uninstall- then Reinstall new version of Compendium,0
+Failed to install (Vista) JRE code 740,0
+documentation,0
+Viewing Tags,0
+Neither web outline nor MS Word show non-English characters,0
+recognizing bookmarks inside PDF,0
+Closing a movie map with a running movie still playing can crash Compendium,0
+drag and drop of image from firefox failing,0
+It would be nice to have the 'move label into detail' and 'move detail into l...,0
+View navigation,0
+Deep Linking (Command Line Option or URL handler),0
+FreeMind reference file search? or VUE integration?,0
+"Switching from the ""advanced"" interface back to the normal one in user prefer...",0
+Compendium holds the focus and won't let other windows in front,0
+Excel drag and drop import can't handle in-cell line breaks/empty lines (at ...,0
+Filenames are light grey text in choose file dialogues  hard to read (Mac),0
+Freeze when trying to change node type,0
+Some movie file formats cause Compendium to crash,0
+Orange/Green tag highlighting not working on Mac,0
+Shift+drag movie resizing should keep proportions,0
+Tag indicator not appearing after insert into view from search,0
+Changing a label's colour/bg  or link type/colour should show the new colour ...,0
+Stencils and templates menu need to allow xml.zip files as well as just xml f...,0
+Progress Bar for unzipping as with Movies it takes ages,0
+Grouping tags: on dragging one or more tags into a group  the group folder sh...,0
+Web Outline export not working for new maps,0
+Movies  pdf  website etc don't launch on Linux.,0
+Endless  hourglass / rolling donut on Linux when Compendium open.,0
+Running a search in the help system causes endless loop,0
+Scribble Layer should zoom when map does.,0
+Toolbar/history bar visibility and placement do not always persist across ses...,0
+"Apostrophe "" ' "" not importing into Word correctly",0
+drag & drop items cum arrows,0
+Cursor stays 'thinking' in the Outline View section,0
+Expanding collapsed main menu does not work,0
+export to svg or other mm software,0
+Error: (ViewPane.UI.CreateNode.actionPerformed),0
+Automatic decluttering hairball networks,0
+Metadata tags with properties,0
+Project problems & recovery,0
+List converted to Map continues as List,0
+Missing image in help,0
+Can add stencil but not remove,0
+Cut-Paste does not need embedding warning,0
+Help on Inbox goes to the wrong page,0
+Make Export directory location user settable,0
+Hourglass cursor remains when Home view selected,0
+Refresh View doesn't work for local MySQL database,0
+Have relative paths entered automatically for cross platform support,0
+bad file permissions  as packaged,1
+First Impressions  Comments  Suggestions  and General Remarks,0
+Compendium main window cannot be resized,0
+icons not displayed,0
+detail popups exlcluded in web maps,0
+thickness of links does not change,0
+lost link groups,0
+Ref. node: manual pasting url into the ref-field,0
+Restore To Project for MySQL DB Fails,0
+Cannot open project,0
+File Path length in reference node limited to 88 characters,0
+Saving projects to run on other Pcs?,0
+Can't delete nodes or maps  Aerial View is non-responsive and hourglass won't...,0
+Slow performance at startup,0
+Compendium Launch,0
+An open Map window doesn't show up in the Window menu list,0
+Error message opening Note node,0
+information request for Compendium 1.5.2,0
+Node Format Toolbar does not reappear when checked,0
+If a map node is inside itself  deleting or cutting the map node closes the m...,0
+Moving between projects in one session get null error,0
+Copy and paste from one project to another in same compendium instance,0
+Zoom auto-changes from 75% to 100% as result of clicking Focus Node after pas...,0
+Clicking Zoom In when the view is at Fit to Page goes right to 100%,0
+Shortcuts should preserve Details content  not just Label,0
+Wrong website linked by Quick Start.,0
+error submitting for survey,0
+"Web outline export translates apostrophes into ""&apos;""",0
+feature requests from a absolute newbie: mentor  skill-level & feedback,0
+Option for Automatic Weighting or Manual Voting,0
+Drag image to create node,0
+Software seems to seek for something after you try to import an xml file whic...,0
+"""Search Google"" data compromise",0
+Open a project results in an exception,0
+style palette,0
+size of minimised map window,0
+web link page title -> ref node label,0
+Same 'Javaw' issue,0
+map windows claustrophobic movement solution,0
+Export > Web Maps > referenced files not being exported,0
+exception opening map after returning to previous project,0
+Shortcut nodes in different views = issues (possible solution included),0
+Won't install Java  won't run,0
+"""Mark seen"" does not working when importing xml",0
+Nodes do not open,0
+Does not find if part of search string is in label and part in detail,0
+Drag and dropped files get wrong path on Linux,0
+Node time spans are gone after restart (MySQL database),0
+Timeline view,0
+Ability to use search plugins (e.g.  Sherlock/OpenSearch) in References,0
+Change Auto Label Searching to a preference,0
+Links do not open in browser,0
+Installed  but will not open / boot,0
+Links on welcome page seem not to be working.,0
+I'm not getting either of my projects to open.,0
+Cannot Create a New Node in a Re-opened Map,0
+Setting standard behavior for drawing links,0
+adding nodes to lists difficult,0
+Want to sort a List node by my own category,0
+Error once application is installed,0
+Launch fails for Word files drag & dropped into map,0
+Ability to copy all nodes in a map to a new map,0
+Can't run Compendium after installation,0
+Compendium appears on absent screens,0
+Windows 7,0
+Created projects fail to open,0
+display-problems after cloning and copy/paste,0
+software instaled and not working,0
+Unable to launch Compendium Installer,0
+cannot download,0
+Will there be an iPad version of Compendium?,0
+Export Compendium Map as OPML,0
+Compendium installed but won't start,0
+Pls make a basic Compendium for Android phones,0
+Having trouble getting started with Compendium,0
+Formatting of text associated with a Node,0
+Linking by drag-hover,0
+Web UI,0
+General query - seeking permission to use logo,0
+Accessing maps from different computers,0
+Download,0
+Automatically creating links between existing and new thoughts,0
+Changing Node Type creates problems,0
+Moving installation,0
+Integration with mendeley and other reference managers,0
+Firefox 19.0.2,0
+cannot open,0
+Can't Download,0
+Compendium map sometimes collapses unexplainably and I cannot load Compendium LD,0
+Compendium NG won't start after installation,0
+Unable to link nodes using OS X 10.9.3,0
+Download of Old Versions,0
+"Error Message - ""Error. (ViewPaneUI.checkLinkRollover) null""",0
+map/list windows that opened in non-maximized state take two clicks to maximize,0
+Print initiation is slow,0
+Rollover image doesn't update after being swapped out,0
+Matching map and printer output,0
+Add menu item for exporting templates,0
+First letter kb shortcut for navigating through Views list (Windows convention),0
+Opens program and then crashes,0
+Selecting a workspace displays incorrect windows,0
+right to left layout pushes node further awaay,0
+Outline export does not display umlauts,0
+On-line bug reporting link,0
+Remove password length restriction (to zero?),1
+Sound only (no vision) from videos,0
+Paste/cut nodes into List is not updating Views indicators,0
+Shortcut icon for reference node - wrong,0
+XML Import did not preserve author name,0
+Problems with displaying status bar,0
+Bug with Stencil set ordering,0
+Stop windows moving outside accessible area.,0
+Node icons not drawing in the Help pages.,0
+Circle and line tool disapear when selected,0
+"Program adds slashes (/) before quotations ("")",0
+Tags : Show Nodes fails for a tag,0
+Icons not shown,0
+Link to log file for missing reference files,0
+Color chooser doesn't show selected color for node text background after reopen,0
+Shortcuts exported than imported as XML become regular nodes,0
+Loosing transclusion and weight indicators from 1.4 to 1.5,0
+File names for HTML web export cannot have '...' as this breaks on Linux,0
+"""drag and drop"" to create a node is not working with the scribble pad",0
+When you delete a node  it doesn't disappear until you restart app,0
+Crash when dragging on a node or clicking a node,0
+Add a blank gif to Reference Node Icons folder (or similar),0
+Long delay when changing icon image for map nodes,0
+New nodes in zoomed view have full-size font initially,0
+Node won't delete until app is shut down and restarted,0
+Have an option to set a default background for maps,0
+Add buttons for 'move label into detail' and 'move detail into label' to the ...,0
+Installation in Ubuntu dapper,0
+Tablet PC interface,0
+Alt+n opens a strange Input Window,0
+Image rollover not going away if node deleted.,0
+Clone Nodes does not correctly display refrence node icon,0
+Align doesn't work correctly when zoom is at 75%,0
+Bug pasting a map node inside itself when zoom is at 75%,0
+Two different size icons at 75% zoom,0
+Export to HTML Outline bug with references,0
+label wrapping when zoomed changes,0
+Loosing links when using copy/paste from/to another database,0
+Bug inserting large search results into a view,0
+Export to XML bug,0
+HTML Views with included referenced files - gets it wrong,0
+Tag creation bug from drop-down box.,0
+Bold text in HTML outline export is a problem,0
+MySQL Socket Connection Reset bug / timeout issues,0
+Bug - problem with large jpg/views export,0
+Bug with inserting from Search results into List when node already in list,0
+Pasting nodes - location in map at 75% zoom not right,0
+Mac freezes when backup from File menu option.,0
+Horizontal shift of node positions in a map,0
+Shift selecting multiple nodes to right-click deselects the actual node you a...,0
+When you transclude to a new Map  make the link Expands on,0
+Make the default link in the IBIS linkset to be: Responds to - change colour ...,0
+Export to html details buggy,0
+Exported outline does not make sense,0
+Show database type in projectopen,0
+Change Type to List and then back to another type fails,0
+Foreign characters requiring two key strokes don't work in node and link labels,0
+Add extra depth to Linked Files folder structure to include subfolders for ea...,0
+Font size,0
+How to load databases from previous version?,0
+Add version number to opening dialog,0
+Template loaded from the Templates Menu are loaded as Unseen nodes,0
+re-import into map loses links unless node ID's are preserved,0
+Need a way to apply node formatting setting to a whole project,0
+Toolbar,0
+Putting commas in the Project name when creating a new project causes major p...,0
+Formatting options for link lines,0
+Label text color change,0
+Can't arrange map,0
+Java Version Problem,0
+After importing XML opening the imported map shows no nodes,0
+Need an easy way to delete a node from all views (+ a thanks!),0
+Add template to stencil,0
+Export templates and stencils,0
+UI freezes if a cycle is created,0
+Text colour loss when importing XML files,0
+Tag layout frame,0
+Export setting for line spacing between nodes/paragraphs,0
+# anchor for a local HTML file,0
+Long delay before getting Login to a Project dialog after startup w/Derby,0
+Set Percentage of Actual Size doesn't display previous selection,0
+File browse button on Mac should start at current file location,0
+Problem starting Compendium,0
+Node Anchor ID wrong for transcluded nodes when exported.,0
+MySQL map background colour setting failure.,0
+Linking to issue 927 - creating blank database,0
+Download Issues,0
+Compendium is 'always on top' over other programs - without asking,0
+Hiding/showing task timing information distorts layout on reopening activity map,0
+Images daragged'n'dropped into learning activity : path to image file is lost,0
+Cut'n paste of nodes fails on paste,0
+Error on copying Learning outcome node from one Map View to another,0
+Last node position not remembered correctly.,0
+Stencils set label and hint text is escaped for XML,0
+Specify background colour for a map view,0
+Bug in exporting to XML: 'all maps',0
+Bug with position of last node added to a map shifting so slightly off when m...,0
+Can't reset default link type,0
+Extra pages in node detail fail,0
+when link areas overlap can't always get focus in link label area.,0
+Compendium won't start on OS X,0
+When using functions that focusNodeAndScroll  selected nodes were deleted,0
+Unable to see a delete of a node when it has other transclusions  without res...,0
+Can't Backup or Convert from MySQL,0
+Cannot change User Options. Dialog freezes on saving.,0
+Either password or user name is not stored,1
+Have the maps which load automatically for a New project be drawn from an XML...,0
+IBIS link group is not automatically set as the default link group when there...,0
+Backing up from Derby escaped all backslash characters when not required.,0
+Include map titles in Web Maps export,0
+Need an undo for color change (and really for all node formatting changes),0
+A way to switch views like Alt-Tab (cycle through open windows),0
+Add all node icon indicators to List views as columns.,0
+Preferred line spacing for HTML Outline export,0
+Updating List labels,0
+Redesign tags interface as a tree.,0
+Web Maps export without including full-size images,0
+Ability to include line breaks in Labels,0
+(1.5 beta) Deleting or cutting a node takes a very long time,0
+Exception: Column '10' not found.,0
+"""Apply format to all transclusions"" -- not working?",0
+Cannot keep mulitple selection and use the right-click menu,0
+ToolTips in Tag panel's node list,0
+Alt-Click/Alt-Shift-Click do not select node's children/parents,0
+It's too hard to pick the same node label colour repeatedly,0
+Separate Tags and Views display in Web Outline Export,0
+Create unique styles for Tags and Views in Web Outline Export,0
+Add comma between tags in Web Outline Export,0
+Place Tags & Views info after Detail in Web Outline Export,0
+Duplicate stencil appears empty when opened,0
+assign tag without having to close node notes/detail/properties,0
+Need some way to increase font size in new Tags View,0
+Map Weight Column in Lists always displays zero  even if the map has contents,0
+List display does not allow selection of node transclusion tooltip,0
+Icon Image > Specify Size > Maintain image ratio? - Update fields.,0
+Image rollover prevents access to node's text and transclusion indicator,0
+SQL backup is still introducing 'escape' characters in text,0
+Internal refernence nodes should mirror behavior in web exports,0
+Icon Set drop-down list selecting the wrong item on the list.,0
+Toolbars disappear when repositioning them,0
+ALT + left click does not select node and all of its child nodes,0
+Allow more text in web map rollover,0
+Old keyboard shortcuts are still in the code and should be exorcised,0
+according the scale of the background image with the scale of the maps,0
+Support .opml filetype,0
+Restoring from SQL does not escape newline character,0
+Aerial View does not maintain relative node positions on an image,0
+Database is messed up when importing from Backup SQL file using the Restore T...,0
+Javascript no longer works when displaying exported Web Maps in Firefox 3,0
+Newly-created tags not visible in tags dropdown,0
+Search considers only the first detail page,0
+change type to... > list to map,0
+XML export freezes when exporting multiple maps with translcuded links,0
+Send button of C-mail dialog does nothing,0
+Deleting Projects from MySQL db doesn't work,0
+"""Send Node to Inbox of ..."" Option does nothing when you click Send",0
+Unset Show small icons,0
+Learning design node icons not shown in List views,0
+Wont run in 10.7.4,0
+CompendiumLD won't start,0
+Broken download link.,0
+V1.2 won't launch,0
+CompendiumLD hangs at startup,0
+Frozen Startup in Mac OSX Mavericks,0
+version 1.2 won't launch,0
+Unread view treats transclusions as separate maps,0
+Streamlining tag selection from toolbar dropdown,0
+Tag and note labels on nodes vanish after 1.5 update,0
+"""Â§"" cannot be used in node names",0
+Store icon size per map,0
+Customisable Node Types,0
+Arrange Bug,0
+"""There appears to already be an instance of Compendium running.""",0
+Cannot save an edit to a user profile.,0
+Restoring a backup breaks internal reference nodes,0
+Right-click menu options to display tags and views,0
+Option to apply a view's node formatting to all descendents,0
+setting node date to year before 1995,0
+Cannot set a user-entered wrap width. It only works with the ones in the menu.,0
+Cannot set a user-entered font size. It only works with the ones in the menu.,0
+url Reference starting with www  do not get http:// prepended when exporting ...,0
+Ability to automatically unzip zipped sql backup w/reference files  images  ...,0
+Clicking a node in a map should ihghlight that node in the Outline view  if open,0
+You should not be able to create a duplicate tag,1
+AutoWiki,0
+Upgraded nodes lose their text asterisk,0
+'www' icon in Default does not have correct Shortcut icon,0
+"Installation failure: ""Could not find the main class. Program will exit.""",0
+Spurious message about toolbars.xml,0
+cut causes an error,0
+Be able to specify the size to display user assigned node images.,0
+menus appear on wrong monitor/screen  when used on multi-monitor computers,0
+Link label text does not zoom,0
+Make 'set as default project' available in the Project Management dialog,0
+Text paste doesn't seem to work with Motif look and feel on Mac,0
+Have wider node label settings than 50 characters,0
+hostname management of linux systems,0
+Link labels should have the asme formatting options as Node labes,0
+Label position -- top/left/right/bottom/center,0
+stencil side pane doesn't close if mutiple stencil sets were opened at once,0
+Delete all transclusion of a node,0
+Import option on Node right-click menu should give same options as Import opt...,0
+Tile view windows,0
+Multiple sets of settings for HTML format,0
+Clean up formatting on right-click menu,0
+Choosing Tools...User Preferences...Map and Rollover changed the Icon Set!,0
+"Choosing ""Search Google"" from a Map label opened the wrong dialog",0
+New error message from export,0
+I want to know on inspecting a map which codes are being used on which nodes,0
+Curvy link lines,0
+Could not find the main class. Program will exit!,0
+Outline Export Broken,0
+"Search results in ""column '10' not found",0
+Slow closing of node contents dialog using OK button even if nothing changed,0
+Node moves without touching at 75% view,0
+Node label changes don't show in Working Tags Area,0
+Editing stencil icon image does doesn't change new node icons,0
+Node Transclusion Indicator - Wide tooltip in narrow window,0
+Column '10' not found in search,0
+Highlight all nodes in the selected view which are found in a tag search.,0
+Stencils settings not remembered,0
+Change to History toolbar when navigating using Views,0
+small icons behavior is inconsistent,0
+nodes don't stay in original position,0
+search only works on 'all views' context setting,0
+"Compendium license - Meaning of ""non commercial use""",0
+New tags mis-formatted on list,0
+passwords less than five characters allowed,1
+non-administrators have administrator privileges,1
+users can delete themselves,1
+users created later cannot view pre-existing database,0
+tags in tag view  pull down menu don't stay in sync,0
+Deleting or Cutting a node leaves it in the old view - PRECISE CONDITIONS,0
+Will not move or delete nodes that have multiple copies - a cause?,0
+Cannot move or delete nodes with multiple copies,0
+1) Nodes dont cut/delete properly NOW and 2) in 1.5.1 they are very very SLOW...,0
+Double paste occurs if Drag&Drop followed by mouse click,0
+Using compendium and MySQL locally,0
+Windows menu displays only three open windows,0
+Installation problem,0
+Typo in ReadMe in distribution .dmg file  problems with bug reporting,0
+Quick Start Movie should SAY where it plays,0
+Allow multiple name selections for Send to Inbox Of,0
+Deleted nodes show up in search results,0
+Most of the maps in my home window report being in the home window twice,0
+Views jump from Tags View leaves permanent display trash,0
+XML import from Atlas Problem,0
+Icon field in List node's Contents window not formatted correctly,0
+Images assigned as node icons not displayed correctly,0
+Replacing a node's icon image results in distorted image.,0
+Sometimes tag labels mis-align,0
+Groupwear Refresh Timer runs even if on Derby,0
+Project creation,0
+excercise 6,0
+Node detail asterisk removed when cutting and pasting maps to sub-maps,0
+Closing Tag View does not clear Working Area rollover hints,0
+Duplicate inbox,0
+"Where should I find the ""Current Log File""",0
+Export to WEB Map does not include stencils for the list node,0
+Could not start!,0
+How about multi-byte character code as Japanese?,0
+Support for Fonts,0
+Compendium 1.5.2 - Linking issues with Tablet PC,0
+Readers feature lists one user under another user's name,1
+Improved group support,0
+Unable to create MySQL Connection,0
+Can't hit Enter/Return to open a new node after typing its label,0
+Keyboard shortcuts to create new nodes,0
+Cannot access a map,0
+Change the tags - node icon indicator list (alphabetic order),0
+Exporting Web maps,0
+Ctrl+Shift+Left in node label does wrong selection,0
+A few issues with Help files: Node Label Preferences/Project Options/General ...,0
+"System locks up - when printing ""Tools Menu""",0
+Dotted line links for cross-links,0
+Adjustable link line label placement,0
+When adding images/icons to nodes  Compendium should automatically browse the...,0
+Colour Palette,0
+How does Compendium work with Leopard?,0
+Compendium Database,0
+Loss off links when selecting a node from the auto-search list after having c...,0
+MySQL New project creation problem,0
+cannot get product started,0
+Simple export and import of compendium files,0
+tag names in tag view misaligned when tagged > 10,0
+Installation Problems,0
+Running in Ubuntu 7.10,0
+can't open,0
+Download Failure,0
+Remote MySQL for collaboration Issue - Project Table does not exist.,0
+Porojects don't open in ubuntu Hardy AMD64,0
+Export of multiple pages in Maps,0
+HTML Export problem when using FireFox 3.0,0
+Speel checker with autocorrect,0
+All data in map node disappeared,1
+Scribble pad clears when connected to remote database due to refresh loop,0
+Optimize the web outline export for use with Word template,0
+Web Maps export options to remove details popups where only the node anchor a...,0
+Web Maps export options to exclude node details popups altogether,0
+Alt+Shift+Right in node label does not work for selecting text,0
+Could we have a portable version of Compendium?,0
+How to save,0
+Can't use launch button on Contents dialog for internal Reference nodes in an...,0
+contents/properties/views window resizes back to a default size at any change...,0
+XML export to zip: reference file paths not correctly renamed if the same res...,0
+Node background color gets lost during backup restore process,1
+Back Arrow on Toolbar locks up Compendium,0
+How do I create new maps in my project?,0
+Wrong link colour using Alt - and Alt+,0
+./compendium.sh ...NoClassDefFoundError java/lang/System,0
+Select multiple nodes and clone,0
+Troubles wth cursor positioning in node labels,0
+LaTeX Support,0
+MAP NODE NOT RESPONDING,0
+List Node Header Spacing is not Remembered,0
+Troubles wth cursor positioning in node labels,0
+Add an 'Open' Button to the Search Reulsts Dialog,0
+Add node timespans to XML export / import,0
+Add timespans to backup / restore,1
+Right-click node timeline to view timespan properties,0
+Double-click blank are of node timeline to create new 5 second timespan,0
+add control areas to start and end of node timline timspan,0
+Click in timespan on node timeline jumps movie to start of that span,0
+Click anywhere on node timeline highlights the node on map (if it is currentl...,0
+Fast node linking using arrow icons on node,0
+New node icon for MovieMap nodes,0
+Clickin on node in map will highlight timeline,0
+Error message on trying to download Compendium,0
+Unable to backup database,0
+deleted nodes persist in MySQL,0
+map (corrupted?) hangs Compendium,0
+Spurious message about toolbars.xml,0
+Closing project disables menu shortcuts,0
+Send to Jabber enabled when no project is open,0
+drag and drop externs files doesn't work on linux version,0
+Crashes - Java runtime error,0
+"""Table 'compendium.project' doesen't exist"" after Creating a Project in MySQL...",0
+error at start-up,0
+instalation problem,0
+Can't run download of Compenium 1.5.3 alpha,0
+starting problem on Ubuntu,0
+Floating tooltip misplaced under Firefox,0
+Ability to specify a default map background,0
+Unable to connect to Database on Ubuntu 64 bit,0
+Auto-detect if newer version of Compendium available for download,0
+Negative yposition-values when importing from Excel,0
+Single user tab - highlight Save button automatically,0
+"Site ""compendiuminstitute.org"" defaced ?",1
+Application not launching.,0
+Copendium does not start,0
+toolbars.xml error on Vista 64-bit,0
+Make space with drag box alt goes wrong when zoomed,0
+Aerial View Delete-Undo Bug,0
+Compendium installed but will not open,0
+Java Class load Proroblem,0
+Line Formatting in Links,0
+Free Text (with RTF formatting) in map background,0
+Compendium will not open,0
+Compendium 1.5.3 a5 generates inaccessible projects on openSUSE 11.2 64-bit L...,0
+wont run in windows 7,0
+Installation on Ubuntu 9.10,0
+1.5.3 Alpha 5 does not load,0
+Install package failed to download correctly.,0
+Question regarding the licence,0
+Javaw not found,0
+Find-as-you-type no longer appears to work when creating new nodes,0
+Exception when opening a new map,0
+Search updates into lists,0
+Maps not saving in Linux Ubuntu,0
+Compendium Update Checker,0
+Download doesn't start,0
+Deleting nodes based on stencils does not place them in the trash can,0
+Export - Power Export - does not work,0
+"Compendium window has set attribute ""always on top""",0
+Hotkeys for zooming,0
+Circular / radial arrange option,0
+How to move Derby DB location?,0
+Main window always on top,0
+HTML Export missing images if loaded in Word,0
+Font changes in outline view but not in existing View,0
+Windows 7 64 bit - Can't find Javaw,0
+Downloading - set-up,0
+Login to a project by double click on the project name,0
+Error when creating and opening new map in old MySQL project,0
+Installation problem  Compendium and Windows 7,0
+how to set default link type,0
+Compendium fails to create schema once connected to MYSQL,0

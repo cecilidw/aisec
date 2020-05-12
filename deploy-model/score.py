@@ -1,3 +1,4 @@
+import os
 import pickle
 import json
 import numpy as np
@@ -22,7 +23,7 @@ def run(raw_data):
     try:
         data = json.loads(raw_data)['data']
         data = np.array(data)
-        result = model.predict(data)
+        result = model.predict([data])
 
         # you can return any data type as long as it is JSON-serializable
         return result.tolist()

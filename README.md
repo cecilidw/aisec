@@ -42,7 +42,7 @@ We will be using the bug label "Integrity/Security" to represent the security la
 
 1. In **Step 2** give instruction which pay plan should be chosen: Basic or Enterprise
 2. Add **Step 6** with explanation of test case run
-3. Add **Step 7** how to create model and get the endpoint URL such that it van be used for security actions
+3. Add **Step 7** how to create model and get the endpoint URL such that it can be used for security actions
 
 ## Useful links and presentation for AiSec example
 

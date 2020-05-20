@@ -31,7 +31,7 @@ You will be creating Machine Learning resources in your Azure subscription. If y
      ![Give your data set a name](docs/images/createdataset4.jpg)
      * On the last step review and confirm details by pressing `Create`
      ![Give your data set a name](docs/images/createdataset5.jpg)
-     * You will see the confirmation that the data set has been created successfully.
+     * You will see the confirmation that the data set has been created successfully. Repeat the steps for the secBugDataLabelColL2.csv file, call that dataset "SecBugDatasetLabelL2".
 
 4. Now it is a time to configure a development environment for Azure Machine Learning on your computer. Follow the instructions on how to set up from [Microsoft documentation](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-environment#local). 
    

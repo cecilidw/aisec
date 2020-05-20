@@ -15,7 +15,9 @@ We will be using the bug label "Integrity/Security" to represent the security la
 ## How to - guideline
 
 1. Clone or download [this repository](https://github.com/cecilidw/aisec) - you'll have all the assets available to run locally. At minimum, you will need at least "AISec Tutorial.ipynb" locally
-2. Follow the instructions for setting up an Azure Machine Learning Workspace from [MS documentation](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-manage-workspace). You will be creating Machine Learning resources in your Azure subscription 
+2. Follow the instructions for setting up an Azure Machine Learning Workspace from [MS documentation](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-manage-workspace). You the difference between the Basic and Enterprise version can be found [here](https://azure.microsoft.com/en-us/pricing/details/machine-learning/). For this example choose Enterprise version.
+You will be creating Machine Learning resources in your Azure subscription. If you don't have an Azure Subscription from before, you can follow the steps [here](https://azure.microsoft.com/en-us/trial/get-started-machine-learning/) to get a trial version. 
+
 3. When the Azure Machine Learning environment is ready, navigate to your resources and open Azure Machine Learning UI by clicking `Try the new Azure Machine Learning studio -> Launch now` under `Overview`. You will now create dataset through this interface by uploading "secBugData.csv" located in "data" folder of the cloned repository. Give a name "SecBugDataser" for your dataset. To do this follow these steps:
      * Choose `Create dataset -> from local files` under `Assets -> Datasets` menu on the left side
      ![Create dataset from local file](docs/images/createdataset0.jpg)
@@ -35,19 +37,11 @@ We will be using the bug label "Integrity/Security" to represent the security la
    
    **NOTE**: When you get to the step where you start Jupyter by using the command `jupyter notebook`, make sure you have navigated to the folder you cloned/downloaded in **Step 1**. Perform all the steps up until the section "Visual Studio Code". If, at any time during the execution of the notebook, the system complains that you have incompatible versions of pyarrow and pandas, add this to one of the notebook cells and execute: `!pip install azureml-dataprep[pandas]`.
 
-5. You are now ready to run through the notebook with this example from Jupyter on your local machine. If you've followed the instructions in **Step 4**, you should be able to open the AISec Tutorial notebook by clicking on this:
-![Give your data set a name](docs/images/runTutorialFromJupyter.jpg)
-
-### [TODO]
-
-1. In **Step 2** give instruction which pay plan should be chosen: Basic or Enterprise
-2. Add **Step 6** with explanation of test case run
-3. Add **Step 7** how to create model and get the endpoint URL such that it can be used for security actions
+5. You are now ready to run through the notebooks with this example from Jupyter on your local machine. If you've followed the instructions in **Step 4**, you should be able to open the AISec Tutorial notebook by clicking on this:
+![Give your data set a name](docs/images/runTutorialFromJupyter.jpg). When you've finsihed running it, you can contunue with the AISecAutoML notebook.
+6. When you've finished running the two notebooks, you should have two endpoints deployed in your AML workspace. You can get the endpoint either from the output in the tutorial, or you can find it in your workspace, under Endpoints. Use this endpoint in your security application, pass it the security bug title as input and expect a classification score as output. 
 
 ## Useful links and presentation for AiSec example
 
-### [TODO]
-1. Add links to useful materials and setup guidelines from this example
-2. Add the link to the presentation
-3. Something more?
-
+[Securing the Software Development Lifecycle with Machine Learning, presentation from RSA 2020](https://www.rsaconference.com/usa/agenda/securing-the-software-development-life-cycle-with-machine-learning)
+[Threat Modeling AI](https://docs.microsoft.com/en-us/security/engineering/threat-modeling-aiml)

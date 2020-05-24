@@ -43,5 +43,6 @@ You will be creating Machine Learning resources in your Azure subscription. If y
 
 ## Useful links and presentation for AiSec example
 
-[Securing the Software Development Lifecycle with Machine Learning, presentation from RSA 2020](https://www.rsaconference.com/usa/agenda/securing-the-software-development-life-cycle-with-machine-learning)
+* [Securing the Software Development Lifecycle with Machine Learning, presentation from RSA 2020](https://www.rsaconference.com/usa/agenda/securing-the-software-development-life-cycle-with-machine-learning)
 [Threat Modeling AI](https://docs.microsoft.com/en-us/security/engineering/threat-modeling-aiml)
+* [AiSec presentation](AiSec2020.pdf)
